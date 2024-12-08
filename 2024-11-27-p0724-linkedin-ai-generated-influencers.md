@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Yes, That Viral LinkedIn Post You Read Was Probably AI-Generated \| WIRED"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 27, 2024 07:24 [Yes, That Viral LinkedIn Post You Read Was Probably AI-Generated | WIRED](https://www.wired.com/story/linkedin-ai-generated-influencers/) <-- My Thought Leader Blogging is my passport. Verify me :-) --> **QUOTE**: `The Microsoft-owned social media site for business professionals has embraced AI, even offering LinkedIn Premium subscribers access to its own in-house AI writing tools that can “rewrite” posts, profiles, and direct messages. The initiative appears to be working: Over 54 percent of longer English-language posts on LinkedIn are likely AI-generated, according to a new analysis shared exclusively with WIRED by the AI detection startup Originality AI. It’s just that the corporate-speak style of AI writing on the platform can be tricky to distinguish from genuine human-penned Thought Leader Blogging.`

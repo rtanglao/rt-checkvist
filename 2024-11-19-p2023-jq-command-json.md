@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Guide to Linux jq Command for JSON Processing \| Baeldung on Linux"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 19, 2024 20:23  [Guide to Linux jq Command for JSON Processing | Baeldung on Linux](https://www.baeldung.com/linux/jq-command-json) <-- **QUOTE**: `jq is built around the concept of filters that work over a stream of JSON. Each filter takes an input and emits JSON to standard out. As we’re going to see, there are many predefined filters that we can use. We can effortlessly combine these filters using pipes to quickly construct and apply complex operations and transformations to our JSON data.`--> I like wikipedia's description of JQ as a functional language: `jq is built around the concept of filters that work over a stream of JSON. Each filter takes an input and emits JSON to standard out. As we’re going to see, there are many predefined filters that we can use. We can effortlessly combine these filters using pipes to quickly construct and apply complex operations and transformations to our JSON data.`
