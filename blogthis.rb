@@ -67,7 +67,7 @@ ENV['TZ'] = 'America/Vancouver'
 t = Time.parse(date_str)
 filename = t.strftime('%Y-%m-%d-p%H%M')
 split_at_markdown_rightsquarebracket = split_at_markdown_leftsquarebracket[1].split(']', 2)
-title = split_at_markdown_rightsquarebracket[0]
+title = split_at_markdown_rightsquarebracket[0].gsub('|', '\"')
 urlplusrest_array = split_at_markdown_rightsquarebracket[1].split '(', 2
 blog_url = urlplusrest_array[1].split(')', 2)[0]
 slug = URI.parse(blog_url).path.split('/').last
@@ -77,6 +77,6 @@ filestr = "---\n"
 filestr += "layout: post\n"
 filestr += "title: \"#{title}\"\n"
 filestr += "---\n"
-filestr += "[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): "
+filestr += '[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): '
 filestr += "#{content}\n"
 File.write(filename, filestr)
