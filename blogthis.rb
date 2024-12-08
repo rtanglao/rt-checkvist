@@ -73,10 +73,10 @@ blog_url = urlplusrest_array[1].split(')', 2)[0]
 slug = URI.parse(blog_url).path.split('/').last
 filename += "-#{slug}.md"
 ap filename
-filestr = "--\n"
+filestr = "---\n"
 filestr += "layout: post\n"
-filestr += "title:\"#{title}\"\n"
-filestr += "--\n"
+filestr += "title: \"#{title}\"\n"
+filestr += "---\n"
 filestr += "[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): "
 filestr += "#{content}\n"
 File.write(filename, filestr)
