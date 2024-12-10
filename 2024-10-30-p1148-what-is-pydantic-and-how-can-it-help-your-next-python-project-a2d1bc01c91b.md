@@ -1,0 +1,5 @@
+---
+layout: post
+title: "What is Pydantic and how can it help your next python project? ¦ by Bryson Meiling ¦ Oct, 2024 ¦ Python in Plain English"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Oct 30, 2024 11:48 [What is Pydantic and how can it help your next python project? ¦ by Bryson Meiling ¦ Oct, 2024 ¦ Python in Plain English](https://python.plainenglish.io/what-is-pydantic-and-how-can-it-help-your-next-python-project-a2d1bc01c91b) <-- how to check data in a data structure has the correct types without having to write parsing code. --> **QUOTE**: `Try this, define a pydantic model, then pass the dict into is. If it passes, then you continue. It if fails, then you assume its a bad request. (code attached as a note but superbriefly: class ClassTypeYouAreChecking(BaseModel) field1 = int field2 = UUID etc)...Its much more clear about what data you are expecting, what is optional, and also pydantic library will check the types of these parameters automatically!`

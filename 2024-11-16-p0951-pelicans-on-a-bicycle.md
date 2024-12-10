@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Pelicans on a bicycle generated using various LLMs"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 16, 2024 09:51 Simon Willison blog: [Pelicans on a bicycle generated using various LLMs](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/) github code post: [pelican-bicycle/generate-svgs.sh at b25faf3e29dcf73c97278dfdd7b7b973462eb0cb · simonw/pelican-bicycle](https://github.com/simonw/pelican-bicycle/blob/b25faf3e29dcf73c97278dfdd7b7b973462eb0cb/generate-svgs.sh#L33) <-- CODE **QUOTE**: ` echo "Generating SVG using model: $model" ... # Capture both stdout and stderr, and the exit status ... if output=$(llm -m $model 'Generate an SVG of a pelican riding a bicycle' 2>&1); then ...# LLM succeeded, try to extract SVG ... if echo "$output" ¦ rg -U -m1 '<svg[\s\S]*?</svg>' > "$output_file" && [ -s "$output_file" ]; then ... echo "Created $output_file"` <-- will we look back at this in 2030 and laugh at how pathetic it was or will there be a bust and stuff like this no longer be in the mainstream and or even work?

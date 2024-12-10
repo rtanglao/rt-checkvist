@@ -1,0 +1,5 @@
+---
+layout: post
+title: "typora-community-plugin/typora-plugin-note-snippets: Use slash command to autocomplete note snippets. ¦ 使用斜线指令输入笔记片段。"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 11, 2024 11:50  [typora-community-plugin/typora-plugin-note-snippets: Use slash command to autocomplete note snippets. ¦ 使用斜线指令输入笔记片段。](https://github.com/typora-community-plugin/typora-plugin-note-snippets) <- Typora has plugins?!? Use this I guess to add macros eg `/date` to return the date --> **QUOTE**: `Open "Plugin Settings" Modal → Plugin "Note Snippets" Settings → "Note snippets folder" → click "Open folder" button to open the snippets folder.` --> eg `// function.js (or other name) export function author() { return 'Tom'}` and then in spippets.md in the snippets folder: `key2 """markdown hello {{ author() }}"""` (change double quotes to backticks) and then `/key2` prints `Hello Tom` --> See also how to install guide: https://github.com/typora-community-plugin/typora-community-plugin/blob/main/docs/en-us/user-guide/1a-installation.md
