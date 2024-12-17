@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Me:: 2030 is when folks don't realize they're browsing a fake internet using GenAI generated pages raganwald 🍓::  "How long before G⭕ogle goes back to showing you search results, but every result on the front page is generated in real-time by GenAI? How long before a large population of users think that they're browsing "the web," but it's all fake pages written just for them at that moment?" - mastodon@bau-ha.us"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 15, 2024 07:22 [Me:: 2030 is when folks don't realize they're browsing a fake internet using GenAI generated pages raganwald 🍓::  "How long before G⭕ogle goes back to showing you search results, but every result on the front page is generated in real-time by GenAI? How long before a large population of users think that they're browsing "the web," but it's all fake pages written just for them at that moment?" - mastodon@bau-ha.us](https://social.bau-ha.us/@raganwald/113657396478306139)  <-- Sadly I think that moment has already arrived for some folks using GenAI.
