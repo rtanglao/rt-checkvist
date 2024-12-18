@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Riding through Winston at the end of the Central Valley Greenway is still terrible because of construction for the last 2 plus years!- Zum Moodswing gift card dropoff :-) ¦ Ride ¦ Strava"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 16, 2024 22:06 [Riding through Winston at the end of the Central Valley Greenway is still terrible because of construction for the last 2 plus years!- Zum Moodswing gift card dropoff :-) ¦ Ride ¦ Strava](https://www.strava.com/activities/13130493830) - The single lane stretches are terrible on a bicycle and would be impossible during rush hour. -> Glad I read reddit,  [CVG - Winston St re-opened eastbound](https://www.reddit.com/r/vancouvercycling/comments/1h4lkj8/cvg_winston_st_reopened_eastbound/) <-- not true for 100% of Winston still today  (via Google search, I don't plan on ever being a regular on reddit)where folks mentioned this: `Still single-lane alternating west of Piper and west of the food bank.`
