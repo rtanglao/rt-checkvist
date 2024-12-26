@@ -1,0 +1,5 @@
+---
+layout: post
+title: "A dataframe is a bad abstraction. Trading away robustness for simplicity… | by Niels Cautaerts | Medium"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Aug 19, 2024 14:50 [A dataframe is a bad abstraction. Trading away robustness for simplicity… ¦ by Niels Cautaerts ¦ Medium](https://medium.com/@cautaerts/a-dataframe-is-a-bad-abstraction-8b2d84fa373f) <-- I am sure it is but honestly what are the alternatives :-) ? --> **QUOTE**: `The problem is that knowing that an object is a dataframe does not help you reason about the correctness of code in the slightest. Yet almost any operation you perform on a dataframe requires knowledge about the underlying data being stored. Otherwise you encounter runtime errors or you compute nonsense. Required knowledge may include basic things like the schema of a table (available columns and data types), but also more advanced rules like constraints that must hold over multiple columns (e.g. “the sum of these three columns must always equal 1”). `

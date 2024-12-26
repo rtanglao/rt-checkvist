@@ -1,0 +1,5 @@
+---
+layout: post
+title: "“Tokyo Riddim” and the Legacy of Japanese Reggae | Bandcamp Daily"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jul 14, 2024 21:30  [“Tokyo Riddim” and the Legacy of Japanese Reggae ¦ Bandcamp Daily](https://daily.bandcamp.com/features/tokyo-riddim-japanese-reggae-feature) <-- global riddim :-) is the best riddim  --> **QUOTE**: `However it was interpreted, Time Capsule’s compilation offers an overview of a decade where reggae was embraced by Japanese artists, revealing new perspectives on the Caribbean genre that remain relevant today. It wouldn’t be a one-way street either: In the middle of the 10-year span covered by Tokyo Riddim, Casio employee Hiroko Okuda would create the “Sleng Teng” riddim preset on the Casiotone MT-40 keyboard, which would go on to inspire a generation of Jamaican artists. Tokyo Riddim captures the earliest infatuation with this sound, offering hints of where it would go en route to becoming an essential part of modern Japan’s music scene.` <-- See also: https://www.nippon.com/en/japan-topics/g02027/

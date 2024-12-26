@@ -78,7 +78,7 @@ if parsed_uri.path == '/'
 else
   slug = parsed_uri.path.split('/').last
   slug = slug.chomp('.php')
-  slug = slug.chmop('.html')
+  slug = slug.chomp('.html')
   slug = slug.chomp('.htm')
   slug = slug.chomp('/index')
 end

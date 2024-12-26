@@ -1,0 +1,5 @@
+---
+layout: post
+title: "What I learned from the ‘Microsoft global IT outage’ | by Kevin Beaumont | Jul, 2024 | DoublePulsar"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jul 30, 2024 06:52 [What I learned from the ‘Microsoft global IT outage’ ¦ by Kevin Beaumont ¦ Jul, 2024 ¦ DoublePulsar](https://doublepulsar.com/what-i-learned-from-the-microsoft-global-it-outage-d6138c06ebdb) <--  <-- I hope it isn't as easy as placing a broken .sys file in a Windows folder. <-- **QUOTE**: `For example, the CrowdStrike issue can be recreated by anybody even now, by placing a broken .sys file into the CrowdStrike system folder. All it checks is the first few bytes of the file — if you have an invalid channel file, the machine blue screens, and fails to boot. That is arguably a security vulnerability in itself. This kind of thing should have been picked up by independent testing. But it wasn’t — because nobody is looking at that, and vendors currently actively stop this level of testing from becoming public.`
