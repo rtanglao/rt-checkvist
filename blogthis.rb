@@ -72,6 +72,10 @@ title = split_at_markdown_rightsquarebracket[0].gsub('"', "'")
 urlplusrest_array = split_at_markdown_rightsquarebracket[1].split '(', 2
 blog_url = urlplusrest_array[1].split(')', 2)[0]
 slug = URI.parse(blog_url).path.split('/').last
+slug = slug.chomp('.php')
+slug = slug.chmop('.html')
+slug = slug.chomp('.htm')
+slug = slug.chomp('/index')
 filename += "-#{slug}.md"
 ap filename
 filestr = "---\n"
