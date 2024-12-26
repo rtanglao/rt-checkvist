@@ -71,11 +71,18 @@ title = split_at_markdown_rightsquarebracket[0].gsub('|', '¦')
 title = split_at_markdown_rightsquarebracket[0].gsub('"', "'")
 urlplusrest_array = split_at_markdown_rightsquarebracket[1].split '(', 2
 blog_url = urlplusrest_array[1].split(')', 2)[0]
-slug = URI.parse(blog_url).path.split('/').last
-slug = slug.chomp('.php')
-slug = slug.chmop('.html')
-slug = slug.chomp('.htm')
-slug = slug.chomp('/index')
+parsed_uri = URI.parse(blog_url)
+logger.debug "parsed_uri.path: #{parsed_uri.path}"
+if parsed_uri.path == '/'
+  slug = parsed_uri.host.gsub('.', '-')
+else
+  slug = parsed_uri.path.split('/').last
+  slug = slug.chomp('.php')
+  slug = slug.chmop('.html')
+  slug = slug.chomp('.htm')
+  slug = slug.chomp('/index')
+end
+logger.debug("slug:#{slug}")
 filename += "-#{slug}.md"
 ap filename
 filestr = "---\n"
