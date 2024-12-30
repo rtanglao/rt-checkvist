@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Moderate people, not code | snarfed.org"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 28, 2024 09:01 [Moderate people, not code ¦ snarfed.org](https://snarfed.org/2024-01-21_moderate-people-not-code) <-- Amen! Yes....AND :-) I still think be able to run your own instance of 1 all-in-one-thing-that-includes-public-or-private-blogging-social-whatever is the best thing to do. Too bad it's currently hard to do that unless you have $ and technical chops ideally both. Fingers crossed this will get cheaper and easier in the future. <-- **QUOTE** `Otherwise, I’m ready to listen. If you’ve read this far, you can probably tell that I lean toward big fedi, inclusion, opt-out federation, and opt-out bridging. Even so, I know open federation doesn’t fit all communities. Consent-based, opt-in federation is a great option, especially when it’s based on communities instead of networks or protocols. Moderate people, not code.`

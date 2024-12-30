@@ -1,0 +1,5 @@
+---
+layout: post
+title: "The Trap of Soulless Productivity | Hazel Weakly: instead humans are wired to be productive by sharing, loving, growing"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 19, 2024 06:43 [The Trap of Soulless Productivity ¦ Hazel Weakly: instead humans are wired to be productive by sharing, loving, growing](https://hazelweakly.me/blog/soulless-productivity/) <-- **QUOTE**: `Seriously! Humans are wired to be productive by sharing, by loving, by growing. ... It just breaks my heart that we have so much out there still that’s stuck in this old way of thinking that the only way to have humans create efficiently is to torture them into submission and rip out their very souls and dump them into the Capitalism Monster. It’s beyond aggravating to have to explain that, no, one can’t measure productivity, but they can measure belonging, and safety, and learning, and all of these wonderful ideas. ... Not only is that “fine”, it’s better.`

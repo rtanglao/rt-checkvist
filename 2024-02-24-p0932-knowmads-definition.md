@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Who are knowmads? - Education Futures"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 24, 2024 09:32 [Who are knowmads? - Education Futures](https://educationfutures.com/blog/post/knowmads-definition) <-- everybody could and should be a "knowmad" in their areas of expertise :-) ! --> **QUOTE**: `“A knowmad is what I term a nomadic knowledge worker –that is, a creative, imaginative, and innovative person who can work with almost anybody, anytime, and anywhere. Industrial society is giving way to knowledge and innovation work. Whereas industrialization required people to settle in one place to perform a very specific role or function, the jobs associated with knowledge and information workers have become much less specific in regard to task and place. Moreover, technologies allow for these new paradigm workers to work either at a specific place, virtually, or any blended combination. Knowmads can instantly reconfigure and recontextualize their work environments, and greater mobility is creating new opportunities.`
