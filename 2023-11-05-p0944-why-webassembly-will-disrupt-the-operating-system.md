@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Why WebAssembly Will Disrupt the Operating System - The New Stack"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 5, 2023 09:44  [Why WebAssembly Will Disrupt the Operating System - The New Stack](https://thenewstack.io/why-webassembly-will-disrupt-the-operating-system/) --> Of course we will sleep walk into the 1970s OS with Wasm components AND we will have things that go beyond POSIX and files as well!!! --> **QUOTE**: `“There are some challenges with this approach,” he said. “One is, do we end up stifling innovation, because how does one KeyVal, for example, distinguish itself from another if they have to follow the same API? My other worry is that there will be a rush to bring all the POSIX abstractions to WebAssembly via the component model....“I don’t want us to sleepwalk into 1970s operating system paradigms. We can do so much better, and I really want developers to think hard about this when they start to pick up WebAssembly as a technology.”`

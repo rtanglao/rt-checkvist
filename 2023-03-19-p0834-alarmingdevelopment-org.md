@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Frieda – Alarming Development"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Mar 19, 2023 08:34  [Frieda – Alarming Development](https://alarmingdevelopment.org/?p=1669) <-- QUOTE: `Using these four variants, Frieda exploratively mixes reverse engineering, reuse, programming, testing, and debugging, mostly by trial-and-error. She begins this process by reminding herself of ways she changed last year’s by reverse engineering a few of the differences between Official-lastYear and Dept-lastYear. She then looks at the same portions of Official-thisYear to see if those same changes can easily be made, given her department’s current needs.` <-- from 2014 paper [Future of End-User Software Engineering:Beyond the Silos](https://d1wqtxts1xzle7.cloudfront.net/45840147/Future_of_end-user_software_engineering_20160521-660-itern8-libre.pdf) <-- I bet this URL will break. Perhaps Machine Learning can help enduser software engineering?!?!

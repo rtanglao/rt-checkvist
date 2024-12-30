@@ -1,0 +1,5 @@
+---
+layout: post
+title: "The Waluigi Effect (mega-post) - LessWrong"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Mar 19, 2023 09:12 [The Waluigi Effect (mega-post) - LessWrong](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post) <-- read the whole thing, RLHF is Reinforcement Learning through Human Feedback (which i guess is what people in th global south are being paid $2/hour to do!? see: Time.com:[OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)  --> `RLHF is the method used by OpenAI to coerce GPT-3/3.5/4 into a smart, honest, helpful, harmless assistant. In the RLHF process, the LLM must chat with a human evaluator. The human evaluator then scores the responses of the LLM by the desired properties (smart, honest, helpful, harmless). A "reward predictor" learns to model the scores of the human. Then the LLM is trained with RL to optimise the predictions of the reward predictor.`

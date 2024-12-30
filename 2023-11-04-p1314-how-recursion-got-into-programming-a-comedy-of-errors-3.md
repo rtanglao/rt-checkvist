@@ -1,0 +1,5 @@
+---
+layout: post
+title: "How recursion got into programming:  a tale of intrigue, betrayal, and advanced programming-language semantics | A Programmers Place"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 4, 2023 13:14  [How recursion got into programming:  a tale of intrigue, betrayal, and advanced programming-language semantics ¦ A Programmers Place](https://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/) <-- We knew in 1935 that recursion was good and indeed possible! See the following quote --> **QUOTE**: `This procedure mechanism is similar to that of lambda calculus, which was known since the 1930s. It seems clear in its compact definition that lambda calculus does not allow recursive function definitions. Yet already by 1935 at least two versions had been discovered of the Y combinator, an expression of the lambda calculus. And this combinator makes recursive function definitions possible in lambda calculus.`

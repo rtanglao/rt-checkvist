@@ -1,0 +1,5 @@
+---
+layout: post
+title: "The surprising ease and effectiveness of AI in a loop"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Mar 16, 2023 20:59 [The surprising ease and effectiveness of AI in a loop](https://simonwillison.net/2023/Mar/17/the-surprising-ease-and-effectiveness-of-ai-in-a-loop/) --> AI in a loop, whoah! --> Read [Matt Webb's full blog post](https://interconnected.org/home/2023/03/16/singularity)! --> QUOTE `Matt Webb on the langchain Python library and the ReAct design pattern, where you plug additional tools into a language model by teaching it to work in a “Thought... Act... Observation” loop where the Act specifies an action it wishes to take (like searching Wikipedia) and an extra layer of software than carries out that action and feeds back the result as the Observation. Matt points out that the ChatGPT 1/10th price drop makes this kind of model usage enormously more cost effective than it was before. ` <--- includes links to Python code written by Nat of GitHub fame

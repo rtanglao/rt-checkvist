@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Centaurs and Cyborgs on the Jagged Frontier"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Oct 13, 2023 21:43  [Centaurs and Cyborgs on the Jagged Frontier](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged) <-- **QUOTE**: `In a different paper than the one we worked on together, Fabrizio Dell’Acqua shows why relying too much on AI can backfire. In an experiment, he found that recruiters who used high-quality AI became lazy, careless, and less skilled in their own judgment. They missed out on some brilliant applicants and made worse decisions than recruiters who used low-quality AI or no AI at all. When the AI is very good, humans have no reason to work hard and pay attention. They let the AI take over, instead of using it as a tool. He called this “falling asleep at the wheel”, and it can hurt human learning, skill development, and productivity.` <-- how do we avoid becoming lazy and augment rather than delegate without supervision?!?
