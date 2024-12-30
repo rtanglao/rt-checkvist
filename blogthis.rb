@@ -77,10 +77,7 @@ if parsed_uri.path == '/'
   slug = parsed_uri.host.gsub('.', '-')
 else
   slug = parsed_uri.path.split('/').last
-  slug = slug.chomp('.php')
-  slug = slug.chomp('.html')
-  slug = slug.chomp('.htm')
-  slug = slug.chomp('/index')
+  slug = slug.sub(/.*\K\.[\D]+$/, '') # https://stackoverflow.com/a/59597812
 end
 logger.debug("slug:#{slug}")
 filename += "-#{slug}.md"
