@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Datasette Client - with SQL Cells / Observable Ambassadors | Observable"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 2, 2022 07:43  [Datasette Client - with SQL Cells / Observable Ambassadors ¦ Observable](https://observablehq.com/@ambassadors/datasette-client) <-- QUOTE: `Datasette is a tool that allows you to easily publish a SQLite database online, with a nifty UI for exploring the dataset and an API that you can use to programmatically query the database with SQL....This client, which you can import into your own notebooks, simplifies access to that API, allowing you to query Datasette instances using Observable's new SQL cells!...Just make sure your Datasette instance has CORS enabled (pass in the --cors flag), and it will be ready to go with Observable!` <-- super cool, see also https://fedi.simonwillison.net/@simon/109434960294373749 <-- QUOTE: `This is a really neat example of how easy it is to fetch data from a Datasette instance and visualize it using an Observable notebook
+...It's actually even easier to do that today, as Observable now has a SQL database interface - and @alexgarciaxyz built a neat library for using that directly against Datasette: https://observablehq.com/@ambassadors/`

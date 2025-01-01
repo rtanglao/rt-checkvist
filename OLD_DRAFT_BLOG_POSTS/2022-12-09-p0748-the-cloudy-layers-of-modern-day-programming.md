@@ -1,0 +1,5 @@
+---
+layout: post
+title: "The cloudy layers of modern-day programming | ★❤✰ Vicki Boykis ★❤✰"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 9, 2022 07:48  [The cloudy layers of modern-day programming ¦ ★❤✰ Vicki Boykis ★❤✰](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/) <-- VendorOps ROFL :-) <-- QUOTE: `...I realize now that we need to label this properly. It’s “managed vendor stuff ops”....Modern software is hard to develop locally, hard to build the internal logic for, and intrinsically hard to deploy, especially so in the case of machine learning. Just take a look at the MLOps paper, which I have nightmares about occasionally....The problem has gotten so bad that you can usually no longer start from scratch and develop and test a single piece of software in a single, preferably local environment....In order to re-create Viberary locally, I would have to somehow spin up BigQuery? Then also somehow recreate Colab, which, again, is proprietary, and test there.`

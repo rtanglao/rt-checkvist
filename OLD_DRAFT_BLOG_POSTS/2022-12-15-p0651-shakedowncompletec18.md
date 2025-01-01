@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Shakedown Complete: The Story Behind Bill C-18’s Shameful Legislative Review Process and the Race to Mandate Payment for Links - Michael Geist"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 15, 2022 06:51 [Shakedown Complete: The Story Behind Bill C-18’s Shameful Legislative Review Process and the Race to Mandate Payment for Links - Michael Geist](https://www.michaelgeist.ca/2022/12/shakedowncompletec18/) <-- Time for a charter challenge!?!? <-- QUOTE: `As for the purported financial benefits, the government’s own estimates are less than half those of the Parliamentary Budget Officer, who also concluded that more than 75% of the revenues will go to broadcasters such as Bell, Rogers, and the CBC. The end result is a bill that will undermine competition and pose a threat to freedom of expression, while potentially leading Facebook to block news sharing in Canada and Google to cancel dozens of existing agreements with Canadian news outlets....As I’ve chronicled for months, Bill C-18 is the product of an intense lobbying campaign from some of Canada’s largest media companies.`

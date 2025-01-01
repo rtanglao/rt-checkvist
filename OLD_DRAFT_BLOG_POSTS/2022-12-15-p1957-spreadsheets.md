@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Interconnected.org: Let’s use spreadsheets to rewire apps and make new ones (Interconnected)"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 15, 2022 19:57  [Interconnected.org: Let’s use spreadsheets to rewire apps and make new ones (Interconnected)](https://interconnected.org/home/2022/12/13/spreadsheets) <-- YES PLEASE --> QUOTE: `How about an app with a spreadsheet under the hood?...
+Like, the experience would be this: you’re using your photos app or Zoom or expense filing SaaS tool, then you go to Settings and scroll aaaaall the way to the bottom, and tap a power user button that says “Open Spreadsheet.”...Then, magically, Google Sheets opens with all your data in it, and you can sort and query it in all the ways you couldn’t before, and change the titles of your expense claims with spreadsheet functions and that all gets reflected back into the app, or build a callout to an AI to describe all your photos and add natural language tags, do it yourself or ask a friend who knows Excel functions, or whatever really. Anything the app developers didn’t add because they’re building for the 80% use case, and you’re building just for you.`
