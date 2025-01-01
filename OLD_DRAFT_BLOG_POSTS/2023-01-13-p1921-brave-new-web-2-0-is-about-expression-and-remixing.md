@@ -1,0 +1,5 @@
+---
+layout: post
+title: "archive.org of Bryght's corporate site: Brave new Web 2.0 is about expression and remixing | Bryght"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 13, 2023 19:21 [archive.org of Bryght's corporate site: Brave new Web 2.0 is about expression and remixing ¦ Bryght](https://web.archive.org/web/20061112060903/http://www.bryght.com/news/2005/08/08/brave-new-web-2-0-is-about-expression-and-remixing) <-- The good ole "Bryght" days of August 2005 :-) Fast forward to January 2023 and I now have 300,000 photos on flickr and delicious is gone! --> QUOTE: `Roland Tanglao, a Vancouver Web developer, spends many of his waking hours living "inside" the Web. He has uploaded more than 15,000 photos to his two accounts at Yahoo's photo-sharing site, Flickr. He publishes his musings on as many as 10 blogs. And when he stumbles across something on the Web that interests him, he stashes a public bookmark of it online at a service called Del.icio.us (http://del.icio.us) so that others can see `

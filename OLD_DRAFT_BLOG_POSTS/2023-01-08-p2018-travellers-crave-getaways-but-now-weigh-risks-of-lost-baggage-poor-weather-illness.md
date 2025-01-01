@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Travellers crave getaways but now weigh risks of lost baggage, poor weather, illness | The Star"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 8, 2023 20:18 [Travellers crave getaways but now weigh risks of lost baggage, poor weather, illness ¦ The Star](https://www.thestar.com/life/travel/2023/01/08/travellers-crave-getaways-but-now-weigh-risks-of-lost-baggage-poor-weather-illness.html) <-- .“We thought we would be done with this." <--- OMG selfdelusion.com, The pandemic is not over!!!!!!! --> QUOTE: `Vancouver-based clinical psychologist Dr. Melanie Badali expects that ongoing pandemic weariness has likely exacerbated the blow of travel snafus for many. Two of her own pandemic-era trips were waylaid by unexpected surprises, she said, including a bout of COVID-19 that hit one family member after they arrived in Toronto for a wedding last June, forcing them to miss the festivities....“We thought we would be done with this. People did not think this could still be happening,” Badali said of the pandemic’s ongoing impacts.`

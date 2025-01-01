@@ -1,0 +1,5 @@
+---
+layout: post
+title: "'Pandemic-Proof' Architecture: Vancouver Symphony Orchestra Orpheum - A Rich Life"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 12, 2023 10:09  ['Pandemic-Proof' Architecture: Vancouver Symphony Orchestra Orpheum - A Rich Life](https://arichlife.com.au/pandemic-proof-architecture/) <-- tl;dr Displacement ventilation at the Orpheum based on lessons learned from a previous pandemic amazingly :-) help with COVID. Not so amazing since both are aerosol! --> QUOTE: `Perhaps hospitals should take a look back through the past, and into the arts scene, to more efficiently manage the future of pandemics. And in another hundred years, future generations may well see our HEPA filters and ancient sanitiser stations and marvel in a similar way....“As tuberculosis shaped modernism,” reflects Chayka, “so COVID-19 and our collective experience of staying inside for months on end will influence architecture’s near future”.`

@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Social threat modeling and quote boosts on Mastodon"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 19, 2023 19:49  [Social threat modeling and quote boosts on Mastodon](https://privacy.thenexus.today/social-threat-modeling-and-quote-boosts/) <-- community management and trust and safety are more important than ever! --> QUOTE: `With social threat modeling, this means working with, listening to, and following the lead of, AND FUNDING: i) marginalized communities who make extensive use of quoting, especially Black Twitter and disability Twitter...ii) people and communities who are the targets of harassment using quoting along with other tactics, especially women of color, trans and queer people and disabled people` --> See also from[jarche:from platforms to covenants](https://jarche.com/2022/11/from-platforms-to-covenants/) and [How to Avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight)

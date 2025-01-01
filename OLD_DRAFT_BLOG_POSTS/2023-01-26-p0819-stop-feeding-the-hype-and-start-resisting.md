@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Stop feeding the hype and start resisting – Iris van Rooij"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 26, 2023 08:19 [Stop feeding the hype and start resisting – Iris van Rooij](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/) <-- Read the WHOLE thing :-) --> QUOTE: `Maybe we, academics, have become so accustomed to offloading our thinking to machine learning algorithms that we cannot think critically anymore (see e.g. Spanton and Guest, 2021; Guest and Martin, 2022; van Rooij, 2020), making us susceptible to believe false, misleading and hyped claims? Or maybe we are afraid to exercise our independent decision making capacity and say “No” to automated bias, hype, misinformation and otherwise harmful technology? Or maybe privileged academics are just fine with enabling the agendas of multimillion dollar companies founded by people motivated by capitalist and bigoted ideologies? Or maybe a mix of these things?`
