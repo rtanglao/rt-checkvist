@@ -79,6 +79,7 @@ else
   slug = parsed_uri.path.split('/').last
   slug = slug.sub(/.*\K\.[\D]+$/, '') # https://stackoverflow.com/a/59597812
 end
+slug.downcase!
 logger.debug("slug:#{slug}")
 filename += "-#{slug}.md"
 ap filename
