@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Me:: Belated condolences to the family of the creator of wood s lot, the best literary blog ever!!! February 2017:: Steve Dodson:: Mark Woods, RIP. : languagehat.com"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 2, 2025 16:51 [Me:: Belated condolences to the family of the creator of wood s lot, the best literary blog ever!!! February 2017:: Steve Dodson:: Mark Woods, RIP. : languagehat.com](https://languagehat.com/mark-woods-rip/) <-- **QUOTE**: `I don’t know anything about Mark’s life except that he devoted a substantial part of it to producing one of the best sites on the internet, wood s lot, and updating it daily for as long as he could. As I wrote earlier: “He somehow finds the time and energy to put together a collection of images, links, and quotes that make my mind and soul feel a little better stocked.” He was a constant inspiration to me in my own efforts, and I will miss him more than I can say. I hope he and my old friend Mike are sharing thoughts, stories, and outrage somewhere on the other side.` <-- Amen!
