@@ -1,0 +1,5 @@
+---
+layout: post
+title: "'If you make the decision to automate, still ask the questions and seek the friction.' Fred Hebert:: Local Optimizations Don't Lead to Global Optimums"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 5, 2025 15:25 ['If you make the decision to automate, still ask the questions and seek the friction.' Fred Hebert:: Local Optimizations Don't Lead to Global Optimums](https://ferd.ca/local-optimizations-don-t-lead-to-global-optimums.html) <-- **QUOTE**: `I've been disappointed by proposals of turning LLMs into incident reviewers; I'd rather see them becoming analysis second-guessers: maybe they can point out agentive language leading to bias, elements that sound counterfactual, highlights elements that appear blameful to create blame awareness? .... If you make the decision to automate, still ask the questions and seek the friction. Systems adjust themselves and activate their adaptive capacity based on the type of challenges they face. Highlight friction. It’s useful, and it would be a waste to ignore it.`
