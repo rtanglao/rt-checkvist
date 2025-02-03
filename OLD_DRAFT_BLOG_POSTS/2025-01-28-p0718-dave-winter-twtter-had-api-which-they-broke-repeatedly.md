@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Me:: Centralized APIs will break see also ᜁG Dave Winer:: Twᜁtter had an API too. It didn't make a difference. And AT Proto won't either unless there are proven systems that people are actually using that peer with Bl🧲esky's servers, so those users can't be sold to the billionaire."
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 28, 2025 07:18 [Me:: Centralized APIs will break see also ᜁG Dave Winer:: Twᜁtter had an API too. It didn't make a difference. And AT Proto won't either unless there are proven systems that people are actually using that peer with Bl🧲esky's servers, so those users can't be sold to the billionaire.](http://scripting.com/2025/01/28/130324.html#a132658) <-- How many times do we have to learn this lesson :-) ?!?!? My software based on the Twᜁtter API version 1 was broken when they broke the API. Same with my software based on the ᜁnstagram API. Off topic :-) --> I learned recently that `ᜁ` is [Unicode for Tagalog letter i](https://www.amp-what.com/unicode/search/i). Long live Unicode keeping ancient scripts alive :-) !!
