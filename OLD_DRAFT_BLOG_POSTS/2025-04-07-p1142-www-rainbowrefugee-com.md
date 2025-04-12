@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: for those who are looking to move to Canada ; Helping LGBTQ+ Refugees  Resettle in Canada - Rainbow Refugee Vancouver"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 7, 2025 11:42 [ME:: for those who are looking to move to Canada ; Helping LGBTQ+ Refugees  Resettle in Canada - Rainbow Refugee Vancouver](https://www.rainbowrefugee.com/?ref=cuntinglinguist.com) <-- QUOTE: `Founded in 2000, Rainbow Refugee is a Vancouver based organization that promotes safe, equitable migration and communities of belonging for people fleeing persecution based on their sexual orientation, gender identity, gender expression, or HIV status. ... We provide support, information, and system navigation to refugees and refugee claimants seeking refugee status in Canada. We manage the Rainbow Refugee Assistant Partnership, allowing us to privately sponsor refugees in collaboration with other LGBTQI+ organizations in the Rainbow Coalition for Refuge.` <-- Nothing more needs to be said
