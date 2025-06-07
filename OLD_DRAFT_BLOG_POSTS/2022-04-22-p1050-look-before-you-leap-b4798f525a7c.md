@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Look before you leap The Different Types of Situational awareness"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 22, 2022. 10:50 Simon Wardley: [Look before you leap The Different Types of Situational awareness](https://swardley.medium.com/look-before-you-leap-b4798f525a7c) <-- tl;dr: Know your risks?!?!? --> `Across these theatres, our ability to defend ourselves and others (whether from shocks or conflict) and our ability to effectively co-operate and collaborate with others depends upon our awareness of these landscapes. Supply chain attacks across software, across physical goods, across CNI, across our political systems (in a future of AI generated video content when you can’t tell whether the person speaking to you is real or not), across our cultural systems (the use of radicalisation, the alteration of history) will become more common over time. Kinetic warfare (throwing deadly stuff at others) is expensive and opponents will look for asymmetric advantages.`

@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Baby's First AWS"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 28, 2022. 06:00 [Baby's First AWS](https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/) <-- QUOTE `That said, it was VERY expensive. When I was building this in December, I would start my evening at about 7:30PM by deploying and having Terraform spin everything up, and then I would have Terraform Cloud destroy whatever inventory was present by 1:30AM. Nonetheless, my bill for December was $130-ish. I realized the Aurora problem, switched to RDS, and got rid of a lot of the Lambdas to simplify the application and consequent bill. I let the new iteration run for almost a month and was headed towards another $120 bill, which I think means the old system would have cost something like $190/month if I hadn’t swapped databases. ` END QUOTE <-- not a very good endorsement of AWS for hobbyist or non enterprise siuations  (via [Tim Bray](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse))

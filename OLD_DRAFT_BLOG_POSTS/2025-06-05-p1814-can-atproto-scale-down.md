@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: read load to generate feeds makes running your own BlueSky instance only affordable to people with lots of $$ ; uniphil:: Can atproto scale down? Write View for back links (i.e. not the full AppView and not the Relay) on a raspberry pi"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jun 5, 2025 18:14 [ME:: read load to generate feeds makes running your own BlueSky instance only affordable to people with lots of $$ ; uniphil:: Can atproto scale down? Write View for back links (i.e. not the full AppView and not the Relay) on a raspberry pi](https://bsky.bad-example.com/can-atproto-scale-down/) <-- **QUOTE**: ` a Hard Thing that BlueSky's AppView implementation must do is serve over 31 million users (read load) with best-in-class feedgen. Our self-host dream doesn't involve that. ... Our self-host dream does involve handling the same 31M user write load as Bluesky's, but I think this is where the it's expensive critique gets wires crossed: Bluesky's read load is what's actually expensive. I have a billion links on a happy raspberry pi.`
