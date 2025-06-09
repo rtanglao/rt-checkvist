@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Data Visualization in Society free"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 4, 2021. [Data Visualization in Society free](https://booksrack.net/book/data-visualization-in-society/) ebook via [Read four chapters from “Data Visualization in Society” with us (it’s free)!](https://blog.datawrapper.de/data-visualization-in-society-book-club/)
+
+″...what visualization is, why it is the way it is — and what it could be.”"Today we’re witnessing an elevated use of knowledge visualization in society. Across domains reminiscent of work, training and the information, varied types of graphs, charts and maps are used to elucidate, persuade and inform tales. In an period in which an increasing number of information are produced and circulated digitally, and digital instruments make visualization manufacturing more and more accessible, you will need to research the situations underneath which such visible texts are generated, disseminated and considered of societal profit. This book is a contribution to the multi-disciplined and multi-faceted dialog in regards to the types, makes use of and roles of knowledge visualization in society. Do information visualizations do ‘good’ or ‘dangerous’? Do they promote understanding and engagement, or do they do ideological work, privileging sure views of the world over others? The contributions in the book have interaction with these core questions from a spread of disciplinary views."

@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Computing Education Resource Blog:  Purpose-first programming: A programming learning approach for learners who care most about what code achieves: Katie Cunningham’s Defense"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 13, 2020.[Computing Education Resource Blog:  Purpose-first programming: A programming learning approach for learners who care most about what code achieves: Katie Cunningham’s Defense](https://computinged.wordpress.com/2020/11/30/purpose-first-programming-a-programming-learning-approach-for-learners-who-care-most-about-what-code-achieves-katie-cunninghams-defense/) <-- See also [Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science](https://dl.acm.org/doi/10.1145/3159450.3159551) and [Katie Cunningham receives NSF fellowship: Studying how CS students use sketching and tracing](https://computinged.wordpress.com/2017/04/17/katie-cunningham-receives-nsf-fellowship-studying-how-cs-students-use-sketching-and-tracing/)
