@@ -52,6 +52,9 @@ task_api_url = "#{URL}.json"
 json = get_checkvist_response(task_api_url, '', logger)
 logger.debug "json: #{json.ai}"
 content = json[0]['content']
+created_at = json[0]['created_at']
+# Read UTC date and time from checkvist API instead of Pacific from the checkvist outline
+#
 # "Dec 4, 2024 07:19 [Greg Wilson:: The Third Bit: Afraid of Change](https://third-bit.com/2018/11/24/afraid-of-change/) <-- **QUOTE**: `I think
 # thought leaders in Silicon Valley started recommending it to each other for two reasons. First, it allows them to blame subordinates for not
 # speaking out (again, ignoring the experience some of those subordinates may have had of bosses who say “I want to hear what you think” but really
@@ -60,29 +63,35 @@ content = json[0]['content']
 # make them rich.`",
 # filename 2024-12-04-p0719-afraid-of-change.md
 # Assume format of date and then markdown link i.e. mmm n, YYYY hh:mm [link text](https://link) rest of text
-split_at_markdown_leftsquarebracket = content.split('[', 2)
-date_str = split_at_markdown_leftsquarebracket[0]
+# split_at_markdown_leftsquarebracket = content.split('[', 2)
+# date_str = split_at_markdown_leftsquarebracket[0]
+# Hardcode since 99% of the time I will be in Vancouver, change to another timezone if the list item was added in a different timezone
+# ENV['TZ'] = 'America/Vancouver'
+# t = Time.parse(date_str)
+# filename = t.strftime('%Y-%m-%d-p%H%M')
+logger.debug "content #{content.ai}"
 # Hardcode since 99% of the time I will be in Vancouver, change to another timezone if the list item was added in a different timezone
 ENV['TZ'] = 'America/Vancouver'
-t = Time.parse(date_str)
+t = Time.parse(created_at)
+logger.debug("created_at: #{t.ai}")
 filename = t.strftime('%Y-%m-%d-p%H%M')
-split_at_markdown_rightsquarebracket = split_at_markdown_leftsquarebracket[1].split(']', 2)
-title = split_at_markdown_rightsquarebracket[0].gsub('|', '¦')
-title = split_at_markdown_rightsquarebracket[0].gsub('"', "'")
-urlplusrest_array = split_at_markdown_rightsquarebracket[1].split '(', 2
-blog_url = urlplusrest_array[1].split(')', 2)[0]
-parsed_uri = URI.parse(blog_url)
+title = content.split('[')[1].split(']')[0]
+content_starting_with_link_url = content.delete_prefix("[#{title}](")
+link_url = content_starting_with_link_url.split(')')[0]
+title = title.gsub('|', '¦')
+title = title.gsub('"', "'")
+parsed_uri = URI.parse(link_url)
 logger.debug "parsed_uri.path: #{parsed_uri.path}"
 if parsed_uri.path == '/'
   slug = parsed_uri.host.gsub('.', '-')
 else
   slug = parsed_uri.path.split('/').last
-  slug = slug.sub(/.*\K\.[\D]+$/, '') # https://stackoverflow.com/a/59597812
+  slug = slug.sub(/.*\K\.\D+$/, '') # https://stackoverflow.com/a/59597812
 end
 slug.downcase!
 logger.debug("slug:#{slug}")
 filename += "-#{slug}.md"
-ap filename
+logger.debug "filename: #{filename}"
 filestr = "---\n"
 filestr += "layout: post\n"
 filestr += "title: \"#{title}\"\n"
