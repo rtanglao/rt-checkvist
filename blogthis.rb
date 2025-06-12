@@ -74,7 +74,8 @@ logger.debug "content #{content.ai}"
 ENV['TZ'] = 'America/Vancouver'
 t = Time.parse(created_at)
 logger.debug("created_at: #{t.ai}")
-filename = t.strftime('%Y-%m-%d-p%H%M')
+time_discovered_slug = t.strftime('%Y-%m-%d-p%H%M')
+discovered = t.strftime('%b %-d, %Y %H:%M')
 title = content.split('[')[1].split(']')[0]
 content_starting_with_link_url = content.delete_prefix("[#{title}](")
 link_url = content_starting_with_link_url.split(')')[0]
@@ -90,12 +91,12 @@ else
 end
 slug.downcase!
 logger.debug("slug:#{slug}")
-filename += "-#{slug}.md"
+filename = "#{time_discovered_slug}-#{slug}.md"
 logger.debug "filename: #{filename}"
 filestr = "---\n"
 filestr += "layout: post\n"
 filestr += "title: \"#{title}\"\n"
 filestr += "---\n"
-filestr += '[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): '
+filestr += "[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): #{discovered} "
 filestr += "#{content.gsub('|', '¦')}\n"
 File.write(filename, filestr)
