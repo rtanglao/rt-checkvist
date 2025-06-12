@@ -1,0 +1,2377 @@
+D, [2025-06-11T20:47:22.214495 #9625] DEBUG -- : https://checkvist.com/checklists/742486/tasks.json
+D, [2025-06-11T20:47:22.214593 #9625] DEBUG -- : 
+D, [2025-06-11T20:47:29.311132 #9633] DEBUG -- : https://checkvist.com/checklists/742486/tasks/43149208.json
+D, [2025-06-11T20:47:29.311281 #9633] DEBUG -- : 
+D, [2025-06-11T20:47:30.227612 #9633] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m43149208[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m776[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:45:14 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/21 04:00:33 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[matters computational](https://www.jjj.de/fxt/fxtbook.pdf) <-- 978 page PDF!!!"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:47:30.228013 #9633] DEBUG -- : content [0;33m"[matters computational](https://www.jjj.de/fxt/fxtbook.pdf) <-- 978 page PDF!!!"[0m
+D, [2025-06-11T20:47:30.229253 #9633] DEBUG -- : created_at: [0;32m2020-07-21 04:00:33 +0000[0m
+D, [2025-06-11T20:47:30.229479 #9633] DEBUG -- : parsed_uri.path: /fxt/fxtbook.pdf
+D, [2025-06-11T20:47:30.229529 #9633] DEBUG -- : slug:fxtbook
+D, [2025-06-11T20:47:30.229558 #9633] DEBUG -- : filename: 2020-07-21-p0400-fxtbook.md
+D, [2025-06-11T20:47:35.447429 #9639] DEBUG -- : https://checkvist.com/checklists/742486/tasks/43149193.json
+D, [2025-06-11T20:47:35.447514 #9639] DEBUG -- : 
+D, [2025-06-11T20:47:36.213200 #9639] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m43149193[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m777[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/21 03:47:37 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/21 03:47:37 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[22 Principles for Great Product Managers](http://reeve.blog/blog/principles/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:47:36.213350 #9639] DEBUG -- : content [0;33m"[22 Principles for Great Product Managers](http://reeve.blog/blog/principles/)"[0m
+D, [2025-06-11T20:47:36.214365 #9639] DEBUG -- : created_at: [0;32m2020-07-21 03:47:37 +0000[0m
+D, [2025-06-11T20:47:36.214557 #9639] DEBUG -- : parsed_uri.path: /blog/principles/
+D, [2025-06-11T20:47:36.214617 #9639] DEBUG -- : slug:principles
+D, [2025-06-11T20:47:36.214638 #9639] DEBUG -- : filename: 2020-07-21-p0347-principles.md
+D, [2025-06-11T20:47:41.456678 #9643] DEBUG -- : https://checkvist.com/checklists/742486/tasks/43146353.json
+D, [2025-06-11T20:47:41.456890 #9643] DEBUG -- : 
+D, [2025-06-11T20:47:42.223488 #9643] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m43146353[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m778[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/20 19:09:39 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/20 19:09:39 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Social Media Disruption: Nigeria's WhatsApp Politics](https://muse.jhu.edu/article/760079/pdf)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:47:42.223645 #9643] DEBUG -- : content [0;33m"[Social Media Disruption: Nigeria's WhatsApp Politics](https://muse.jhu.edu/article/760079/pdf)"[0m
+D, [2025-06-11T20:47:42.224570 #9643] DEBUG -- : created_at: [0;32m2020-07-20 19:09:39 +0000[0m
+D, [2025-06-11T20:47:42.224722 #9643] DEBUG -- : parsed_uri.path: /article/760079/pdf
+D, [2025-06-11T20:47:42.224759 #9643] DEBUG -- : slug:pdf
+D, [2025-06-11T20:47:42.224789 #9643] DEBUG -- : filename: 2020-07-20-p1909-pdf.md
+D, [2025-06-11T20:47:47.456220 #9656] DEBUG -- : https://checkvist.com/checklists/742486/tasks/43041487.json
+D, [2025-06-11T20:47:47.456291 #9656] DEBUG -- : 
+D, [2025-06-11T20:47:48.218873 #9656] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m43041487[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m779[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/13 13:54:03 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/13 13:54:03 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Introducing Winbindex - the Windows Binaries Index](https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index/) <--- has 80% of the files using [pymultitor](https://github.com/realgam3/pymultitor) to do multiple IPs to speed it up from 5 days to 3 days"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:47:48.219019 #9656] DEBUG -- : content [0;33m"[Introducing Winbindex - the Windows Binaries Index](https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index/) <--- has 80% of the files using [pymultitor](https://github.com/realgam3/pymultitor) to do multiple IPs to speed it up from 5 days to 3 days"[0m
+D, [2025-06-11T20:47:48.219940 #9656] DEBUG -- : created_at: [0;32m2020-07-13 13:54:03 +0000[0m
+D, [2025-06-11T20:47:48.220087 #9656] DEBUG -- : parsed_uri.path: /Introducing-Winbindex-the-Windows-Binaries-Index/
+D, [2025-06-11T20:47:48.220119 #9656] DEBUG -- : slug:introducing-winbindex-the-windows-binaries-index
+D, [2025-06-11T20:47:48.220140 #9656] DEBUG -- : filename: 2020-07-13-p1354-introducing-winbindex-the-windows-binaries-index.md
+D, [2025-06-11T20:47:53.497703 #9667] DEBUG -- : https://checkvist.com/checklists/742486/tasks/43006654.json
+D, [2025-06-11T20:47:53.497804 #9667] DEBUG -- : 
+D, [2025-06-11T20:47:54.262251 #9667] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m43006654[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m780[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/10 04:49:55 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/10 04:49:55 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[self updating github readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) using python, datasette, etc"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:47:54.262446 #9667] DEBUG -- : content [0;33m"[self updating github readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) using python, datasette, etc"[0m
+D, [2025-06-11T20:47:54.263454 #9667] DEBUG -- : created_at: [0;32m2020-07-10 04:49:55 +0000[0m
+D, [2025-06-11T20:47:54.263636 #9667] DEBUG -- : parsed_uri.path: /2020/Jul/10/self-updating-profile-readme/
+D, [2025-06-11T20:47:54.263683 #9667] DEBUG -- : slug:self-updating-profile-readme
+D, [2025-06-11T20:47:54.263724 #9667] DEBUG -- : filename: 2020-07-10-p0449-self-updating-profile-readme.md
+D, [2025-06-11T20:47:59.488665 #9674] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42968582.json
+D, [2025-06-11T20:47:59.488775 #9674] DEBUG -- : 
+D, [2025-06-11T20:48:00.254891 #9674] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42968582[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m781[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/07 15:32:16 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/07 15:32:16 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[a cookie cutter template for datasette plugins](https://simonwillison.net/2020/Jun/20/cookiecutter-plugins/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:00.255115 #9674] DEBUG -- : content [0;33m"[a cookie cutter template for datasette plugins](https://simonwillison.net/2020/Jun/20/cookiecutter-plugins/)"[0m
+D, [2025-06-11T20:48:00.256102 #9674] DEBUG -- : created_at: [0;32m2020-07-07 15:32:16 +0000[0m
+D, [2025-06-11T20:48:00.256300 #9674] DEBUG -- : parsed_uri.path: /2020/Jun/20/cookiecutter-plugins/
+D, [2025-06-11T20:48:00.256330 #9674] DEBUG -- : slug:cookiecutter-plugins
+D, [2025-06-11T20:48:00.256348 #9674] DEBUG -- : filename: 2020-07-07-p1532-cookiecutter-plugins.md
+D, [2025-06-11T20:48:05.489244 #9681] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42967938.json
+D, [2025-06-11T20:48:05.489583 #9681] DEBUG -- : 
+D, [2025-06-11T20:48:06.256709 #9681] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42967938[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m782[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/07 14:22:45 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/07 14:22:45 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[an example of cvss to sqlite with multiple tables and date and time fields](https://github.com/simonw/csvs-to-sqlite)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:06.256870 #9681] DEBUG -- : content [0;33m"[an example of cvss to sqlite with multiple tables and date and time fields](https://github.com/simonw/csvs-to-sqlite)"[0m
+D, [2025-06-11T20:48:06.257733 #9681] DEBUG -- : created_at: [0;32m2020-07-07 14:22:45 +0000[0m
+D, [2025-06-11T20:48:06.257894 #9681] DEBUG -- : parsed_uri.path: /simonw/csvs-to-sqlite
+D, [2025-06-11T20:48:06.257928 #9681] DEBUG -- : slug:csvs-to-sqlite
+D, [2025-06-11T20:48:06.257950 #9681] DEBUG -- : filename: 2020-07-07-p1422-csvs-to-sqlite.md
+D, [2025-06-11T20:48:11.497407 #9687] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42909104.json
+D, [2025-06-11T20:48:11.497739 #9687] DEBUG -- : 
+D, [2025-06-11T20:48:12.262587 #9687] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42909104[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m783[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/04 14:26:38 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/04 14:26:38 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[wardley maps part 1 of 16](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec) - read this"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:12.262840 #9687] DEBUG -- : content [0;33m"[wardley maps part 1 of 16](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec) - read this"[0m
+D, [2025-06-11T20:48:12.264118 #9687] DEBUG -- : created_at: [0;32m2020-07-04 14:26:38 +0000[0m
+D, [2025-06-11T20:48:12.264341 #9687] DEBUG -- : parsed_uri.path: /wardleymaps/on-being-lost-2ef5f05eb1ec
+D, [2025-06-11T20:48:12.264398 #9687] DEBUG -- : slug:on-being-lost-2ef5f05eb1ec
+D, [2025-06-11T20:48:12.264423 #9687] DEBUG -- : filename: 2020-07-04-p1426-on-being-lost-2ef5f05eb1ec.md
+D, [2025-06-11T20:48:17.505828 #9691] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42902199.json
+D, [2025-06-11T20:48:17.505904 #9691] DEBUG -- : 
+D, [2025-06-11T20:48:18.419084 #9691] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42902199[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m784[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/03 19:35:54 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/03 19:34:06 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Covid, Twitter, and Critique: An Interview with Carlo Caduff](http://www.americananthropologist.org/2020/07/02/covid-twitter-and-critique-an-interview-with-carlo-caduff/) bonus: [The Pandemic Perhaps](https://www.ucpress.edu/book/9780520284098/the-pandemic-perhaps)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:18.419255 #9691] DEBUG -- : content [0;33m"[Covid, Twitter, and Critique: An Interview with Carlo Caduff](http://www.americananthropologist.org/2020/07/02/covid-twitter-and-critique-an-interview-with-carlo-caduff/) bonus: [The Pandemic Perhaps](https://www.ucpress.edu/book/9780520284098/the-pandemic-perhaps)"[0m
+D, [2025-06-11T20:48:18.420090 #9691] DEBUG -- : created_at: [0;32m2020-07-03 19:34:06 +0000[0m
+D, [2025-06-11T20:48:18.420244 #9691] DEBUG -- : parsed_uri.path: /2020/07/02/covid-twitter-and-critique-an-interview-with-carlo-caduff/
+D, [2025-06-11T20:48:18.420296 #9691] DEBUG -- : slug:covid-twitter-and-critique-an-interview-with-carlo-caduff
+D, [2025-06-11T20:48:18.420329 #9691] DEBUG -- : filename: 2020-07-03-p1934-covid-twitter-and-critique-an-interview-with-carlo-caduff.md
+D, [2025-06-11T20:48:23.655124 #9695] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42887687.json
+D, [2025-06-11T20:48:23.655194 #9695] DEBUG -- : 
+D, [2025-06-11T20:48:24.571708 #9695] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42887687[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m785[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/02 18:06:30 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/07/02 18:06:30 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[more than you ever need to know about lightning cables and ports](https://nyansatan.github.io/lightning/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:24.571946 #9695] DEBUG -- : content [0;33m"[more than you ever need to know about lightning cables and ports](https://nyansatan.github.io/lightning/)"[0m
+D, [2025-06-11T20:48:24.572938 #9695] DEBUG -- : created_at: [0;32m2020-07-02 18:06:30 +0000[0m
+D, [2025-06-11T20:48:24.573102 #9695] DEBUG -- : parsed_uri.path: /lightning/
+D, [2025-06-11T20:48:24.573135 #9695] DEBUG -- : slug:lightning
+D, [2025-06-11T20:48:24.573159 #9695] DEBUG -- : filename: 2020-07-02-p1806-lightning.md
+D, [2025-06-11T20:48:29.801507 #9701] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42832298.json
+D, [2025-06-11T20:48:29.801561 #9701] DEBUG -- : 
+D, [2025-06-11T20:48:30.565154 #9701] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42832298[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m786[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/07/07 15:33:23 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/29 19:43:58 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[out of the tar pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf), [eric normand's response](https://lispcast.com/my-response-to-out-of-the-tar-pit/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:30.565290 #9701] DEBUG -- : content [0;33m"[out of the tar pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf), [eric normand's response](https://lispcast.com/my-response-to-out-of-the-tar-pit/)"[0m
+D, [2025-06-11T20:48:30.566072 #9701] DEBUG -- : created_at: [0;32m2020-06-29 19:43:58 +0000[0m
+D, [2025-06-11T20:48:30.566224 #9701] DEBUG -- : parsed_uri.path: /papers/MoseleyMarks06a.pdf
+D, [2025-06-11T20:48:30.566258 #9701] DEBUG -- : slug:moseleymarks06a
+D, [2025-06-11T20:48:30.566278 #9701] DEBUG -- : filename: 2020-06-29-p1943-moseleymarks06a.md
+D, [2025-06-11T20:48:35.779900 #9705] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42798909.json
+D, [2025-06-11T20:48:35.779962 #9705] DEBUG -- : 
+D, [2025-06-11T20:48:36.568156 #9705] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42798909[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m787[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/27 13:30:12 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/27 13:30:12 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[nihola 4.0 trike](https://curbsidecycle.com/collections/brand-nihola) $8000 with e-assist"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:36.568333 #9705] DEBUG -- : content [0;33m"[nihola 4.0 trike](https://curbsidecycle.com/collections/brand-nihola) $8000 with e-assist"[0m
+D, [2025-06-11T20:48:36.569671 #9705] DEBUG -- : created_at: [0;32m2020-06-27 13:30:12 +0000[0m
+D, [2025-06-11T20:48:36.569919 #9705] DEBUG -- : parsed_uri.path: /collections/brand-nihola
+D, [2025-06-11T20:48:36.569994 #9705] DEBUG -- : slug:brand-nihola
+D, [2025-06-11T20:48:36.570030 #9705] DEBUG -- : filename: 2020-06-27-p1330-brand-nihola.md
+D, [2025-06-11T20:48:41.781953 #9709] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42763067.json
+D, [2025-06-11T20:48:41.782008 #9709] DEBUG -- : 
+D, [2025-06-11T20:48:42.544458 #9709] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42763067[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m788[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/25 04:07:13 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/25 04:07:13 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[How to make an SMS botwith Google Sheets + Twilio](https://docs.google.com/document/d/1VzUsLofQVlP68wWKzUAmFO701I14hZpBZLIml1aWs7E/edit#heading=h.ssu29xkmdjst)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:42.544604 #9709] DEBUG -- : content [0;33m"[How to make an SMS botwith Google Sheets + Twilio](https://docs.google.com/document/d/1VzUsLofQVlP68wWKzUAmFO701I14hZpBZLIml1aWs7E/edit#heading=h.ssu29xkmdjst)"[0m
+D, [2025-06-11T20:48:42.545489 #9709] DEBUG -- : created_at: [0;32m2020-06-25 04:07:13 +0000[0m
+D, [2025-06-11T20:48:42.545647 #9709] DEBUG -- : parsed_uri.path: /document/d/1VzUsLofQVlP68wWKzUAmFO701I14hZpBZLIml1aWs7E/edit
+D, [2025-06-11T20:48:42.545684 #9709] DEBUG -- : slug:edit
+D, [2025-06-11T20:48:42.545756 #9709] DEBUG -- : filename: 2020-06-25-p0407-edit.md
+D, [2025-06-11T20:48:47.768017 #9713] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42702607.json
+D, [2025-06-11T20:48:47.768075 #9713] DEBUG -- : 
+D, [2025-06-11T20:48:48.682152 #9713] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42702607[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m789[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/22 14:09:43 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/22 14:09:31 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[retro piano free until august 31, 2020](https://bedroomproducersblog.com/2020/06/18/audiokit-retro-piano/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:48.682324 #9713] DEBUG -- : content [0;33m"[retro piano free until august 31, 2020](https://bedroomproducersblog.com/2020/06/18/audiokit-retro-piano/)"[0m
+D, [2025-06-11T20:48:48.683311 #9713] DEBUG -- : created_at: [0;32m2020-06-22 14:09:31 +0000[0m
+D, [2025-06-11T20:48:48.683486 #9713] DEBUG -- : parsed_uri.path: /2020/06/18/audiokit-retro-piano/
+D, [2025-06-11T20:48:48.683522 #9713] DEBUG -- : slug:audiokit-retro-piano
+D, [2025-06-11T20:48:48.683544 #9713] DEBUG -- : filename: 2020-06-22-p1409-audiokit-retro-piano.md
+D, [2025-06-11T20:48:53.918681 #9720] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42694322.json
+D, [2025-06-11T20:48:53.918742 #9720] DEBUG -- : 
+D, [2025-06-11T20:48:54.685245 #9720] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42694322[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m790[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/22 00:59:05 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/22 00:59:05 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[syncthing tao of mac](https://twitter.com/taoofmac)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:48:54.685407 #9720] DEBUG -- : content [0;33m"[syncthing tao of mac](https://twitter.com/taoofmac)"[0m
+D, [2025-06-11T20:48:54.686415 #9720] DEBUG -- : created_at: [0;32m2020-06-22 00:59:05 +0000[0m
+D, [2025-06-11T20:48:54.686584 #9720] DEBUG -- : parsed_uri.path: /taoofmac
+D, [2025-06-11T20:48:54.686660 #9720] DEBUG -- : slug:taoofmac
+D, [2025-06-11T20:48:54.686683 #9720] DEBUG -- : filename: 2020-06-22-p0059-taoofmac.md
+D, [2025-06-11T20:48:59.901631 #9724] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42685044.json
+D, [2025-06-11T20:48:59.901728 #9724] DEBUG -- : 
+D, [2025-06-11T20:49:00.816186 #9724] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42685044[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m791[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/21 06:46:23 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/21 06:46:23 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"https://third-bit.com/2020/06/20/june-2020-papers.html <-- june 2020 Computer science papers from greg wilson"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:00.816402 #9724] DEBUG -- : content [0;33m"https://third-bit.com/2020/06/20/june-2020-papers.html <-- june 2020 Computer science papers from greg wilson"[0m
+D, [2025-06-11T20:49:00.817458 #9724] DEBUG -- : created_at: [0;32m2020-06-21 06:46:23 +0000[0m
+./blogthis.rb:79:in `<main>': undefined method `split' for nil (NoMethodError)
+
+title = content.split('[')[1].split(']')[0]
+                             ^^^^^^
+D, [2025-06-11T20:49:06.050248 #9728] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42622311.json
+D, [2025-06-11T20:49:06.050300 #9728] DEBUG -- : 
+D, [2025-06-11T20:49:06.828504 #9728] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42622311[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m792[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/18 15:57:23 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/18 15:57:23 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[15+ Books by Black Scholars the Tech Industry Needs to Read Now](https://www.c2i2.ucla.edu/racial-justice-and-tech/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:06.828676 #9728] DEBUG -- : content [0;33m"[15+ Books by Black Scholars the Tech Industry Needs to Read Now](https://www.c2i2.ucla.edu/racial-justice-and-tech/)"[0m
+D, [2025-06-11T20:49:06.829655 #9728] DEBUG -- : created_at: [0;32m2020-06-18 15:57:23 +0000[0m
+D, [2025-06-11T20:49:06.829874 #9728] DEBUG -- : parsed_uri.path: /racial-justice-and-tech/
+D, [2025-06-11T20:49:06.829913 #9728] DEBUG -- : slug:racial-justice-and-tech
+D, [2025-06-11T20:49:06.829935 #9728] DEBUG -- : filename: 2020-06-18-p1557-racial-justice-and-tech.md
+D, [2025-06-11T20:49:12.058059 #9733] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42620703.json
+D, [2025-06-11T20:49:12.058135 #9733] DEBUG -- : 
+D, [2025-06-11T20:49:12.973265 #9733] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42620703[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m793[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/18 13:38:04 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/18 13:37:38 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[From Manongs to Pinay Domestic Workers: The Changing Face of Filipino Migration to the US](https://planamag.com/from-manongs-to-pinay-domestic-workers-the-changing-face-of-filipino-migration-to-the-us/?fbclid=IwAR0MBzVsGmUUmNFpqF9pJmgjNiIxv7HoatopSyLJZ_T4a3fXNBQSixOjPLQ)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:12.973456 #9733] DEBUG -- : content [0;33m"[From Manongs to Pinay Domestic Workers: The Changing Face of Filipino Migration to the US](https://planamag.com/from-manongs-to-pinay-domestic-workers-the-changing-face-of-filipino-migration-to-the-us/?fbclid=IwAR0MBzVsGmUUmNFpqF9pJmgjNiIxv7HoatopSyLJZ_T4a3fXNBQSixOjPLQ)"[0m
+D, [2025-06-11T20:49:12.974486 #9733] DEBUG -- : created_at: [0;32m2020-06-18 13:37:38 +0000[0m
+D, [2025-06-11T20:49:12.974703 #9733] DEBUG -- : parsed_uri.path: /from-manongs-to-pinay-domestic-workers-the-changing-face-of-filipino-migration-to-the-us/
+D, [2025-06-11T20:49:12.974765 #9733] DEBUG -- : slug:from-manongs-to-pinay-domestic-workers-the-changing-face-of-filipino-migration-to-the-us
+D, [2025-06-11T20:49:12.974806 #9733] DEBUG -- : filename: 2020-06-18-p1337-from-manongs-to-pinay-domestic-workers-the-changing-face-of-filipino-migration-to-the-us.md
+D, [2025-06-11T20:49:18.201085 #9737] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42620700.json
+D, [2025-06-11T20:49:18.201167 #9737] DEBUG -- : 
+D, [2025-06-11T20:49:19.119076 #9737] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42620700[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m794[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/18 13:36:49 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/18 13:36:49 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[first filipino family in the united states was in Louisianna in the 1800s](https://filipinohome.com/cart.html)?!?"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:19.119384 #9737] DEBUG -- : content [0;33m"[first filipino family in the united states was in Louisianna in the 1800s](https://filipinohome.com/cart.html)?!?"[0m
+D, [2025-06-11T20:49:19.120369 #9737] DEBUG -- : created_at: [0;32m2020-06-18 13:36:49 +0000[0m
+D, [2025-06-11T20:49:19.120534 #9737] DEBUG -- : parsed_uri.path: /cart.html
+D, [2025-06-11T20:49:19.120570 #9737] DEBUG -- : slug:cart
+D, [2025-06-11T20:49:19.120591 #9737] DEBUG -- : filename: 2020-06-18-p1336-cart.md
+D, [2025-06-11T20:49:24.357456 #9748] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42608120.json
+D, [2025-06-11T20:49:24.357518 #9748] DEBUG -- : 
+D, [2025-06-11T20:49:25.122553 #9748] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42608120[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m795[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/17 17:10:28 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/17 17:10:28 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[A content-first approach to product onboarding](https://www.intercom.com/blog/content-first-approach-to-onboarding/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:25.122665 #9748] DEBUG -- : content [0;33m"[A content-first approach to product onboarding](https://www.intercom.com/blog/content-first-approach-to-onboarding/)"[0m
+D, [2025-06-11T20:49:25.123429 #9748] DEBUG -- : created_at: [0;32m2020-06-17 17:10:28 +0000[0m
+D, [2025-06-11T20:49:25.123559 #9748] DEBUG -- : parsed_uri.path: /blog/content-first-approach-to-onboarding/
+D, [2025-06-11T20:49:25.123607 #9748] DEBUG -- : slug:content-first-approach-to-onboarding
+D, [2025-06-11T20:49:25.123638 #9748] DEBUG -- : filename: 2020-06-17-p1710-content-first-approach-to-onboarding.md
+D, [2025-06-11T20:49:30.318459 #9754] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42606937.json
+D, [2025-06-11T20:49:30.318521 #9754] DEBUG -- : 
+D, [2025-06-11T20:49:31.084465 #9754] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42606937[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m796[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/17 15:52:54 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/17 15:52:45 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[An Analysis of Pre-installed Android Software](https://haystack.mobi/papers/preinstalledAndroidSW_preprint.pdf) via jofish see frederike@mozillafoundation.org"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:31.084611 #9754] DEBUG -- : content [0;33m"[An Analysis of Pre-installed Android Software](https://haystack.mobi/papers/preinstalledAndroidSW_preprint.pdf) via jofish see frederike@mozillafoundation.org"[0m
+D, [2025-06-11T20:49:31.085476 #9754] DEBUG -- : created_at: [0;32m2020-06-17 15:52:45 +0000[0m
+D, [2025-06-11T20:49:31.085637 #9754] DEBUG -- : parsed_uri.path: /papers/preinstalledAndroidSW_preprint.pdf
+D, [2025-06-11T20:49:31.085669 #9754] DEBUG -- : slug:preinstalledandroidsw_preprint
+D, [2025-06-11T20:49:31.085687 #9754] DEBUG -- : filename: 2020-06-17-p1552-preinstalledandroidsw_preprint.md
+D, [2025-06-11T20:49:36.289194 #9760] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42606884.json
+D, [2025-06-11T20:49:36.289256 #9760] DEBUG -- : 
+D, [2025-06-11T20:49:37.054250 #9760] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42606884[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m797[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/17 15:43:06 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/17 15:42:51 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[machine learning harassment](https://xyz.informationactivism.org/en/machine-learning-harassment) via emma irwin"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:37.054448 #9760] DEBUG -- : content [0;33m"[machine learning harassment](https://xyz.informationactivism.org/en/machine-learning-harassment) via emma irwin"[0m
+D, [2025-06-11T20:49:37.055577 #9760] DEBUG -- : created_at: [0;32m2020-06-17 15:42:51 +0000[0m
+D, [2025-06-11T20:49:37.055793 #9760] DEBUG -- : parsed_uri.path: /en/machine-learning-harassment
+D, [2025-06-11T20:49:37.055860 #9760] DEBUG -- : slug:machine-learning-harassment
+D, [2025-06-11T20:49:37.055886 #9760] DEBUG -- : filename: 2020-06-17-p1542-machine-learning-harassment.md
+D, [2025-06-11T20:49:42.249796 #9764] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42606816.json
+D, [2025-06-11T20:49:42.249872 #9764] DEBUG -- : 
+D, [2025-06-11T20:49:43.021260 #9764] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42606816[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m798[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/17 15:41:50 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/17 15:41:50 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[algorithms for the people .org](http://cs.brown.edu/~seny/aftp/) (redirects to brown)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:43.021437 #9764] DEBUG -- : content [0;33m"[algorithms for the people .org](http://cs.brown.edu/~seny/aftp/) (redirects to brown)"[0m
+D, [2025-06-11T20:49:43.022238 #9764] DEBUG -- : created_at: [0;32m2020-06-17 15:41:50 +0000[0m
+D, [2025-06-11T20:49:43.022379 #9764] DEBUG -- : parsed_uri.path: /~seny/aftp/
+D, [2025-06-11T20:49:43.022406 #9764] DEBUG -- : slug:aftp
+D, [2025-06-11T20:49:43.022423 #9764] DEBUG -- : filename: 2020-06-17-p1541-aftp.md
+D, [2025-06-11T20:49:48.221625 #9768] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42533744.json
+D, [2025-06-11T20:49:48.221675 #9768] DEBUG -- : 
+D, [2025-06-11T20:49:49.154003 #9768] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42533744[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m799[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/16 05:53:52 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/16 05:53:52 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[How many of you know deep down that the team is working on something that no customer wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:49.154137 #9768] DEBUG -- : content [0;33m"[How many of you know deep down that the team is working on something that no customer wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)"[0m
+D, [2025-06-11T20:49:49.155021 #9768] DEBUG -- : created_at: [0;32m2020-06-16 05:53:52 +0000[0m
+D, [2025-06-11T20:49:49.155188 #9768] DEBUG -- : parsed_uri.path: /article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54
+D, [2025-06-11T20:49:49.155224 #9768] DEBUG -- : slug:how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54
+D, [2025-06-11T20:49:49.155245 #9768] DEBUG -- : filename: 2020-06-16-p0553-how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54.md
+D, [2025-06-11T20:49:54.389748 #9773] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42533146.json
+D, [2025-06-11T20:49:54.390607 #9773] DEBUG -- : 
+D, [2025-06-11T20:49:56.037726 #9773] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42533146[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m800[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/16 04:47:15 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/16 04:46:37 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[how much can you learn from just two columns](https://simonwillison.net/2020/Jun/15/how-much-can-you-learn-just-two-columns/) (:name parameter)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:49:56.037838 #9773] DEBUG -- : content [0;33m"[how much can you learn from just two columns](https://simonwillison.net/2020/Jun/15/how-much-can-you-learn-just-two-columns/) (:name parameter)"[0m
+D, [2025-06-11T20:49:56.038612 #9773] DEBUG -- : created_at: [0;32m2020-06-16 04:46:37 +0000[0m
+D, [2025-06-11T20:49:56.038756 #9773] DEBUG -- : parsed_uri.path: /2020/Jun/15/how-much-can-you-learn-just-two-columns/
+D, [2025-06-11T20:49:56.038788 #9773] DEBUG -- : slug:how-much-can-you-learn-just-two-columns
+D, [2025-06-11T20:49:56.038807 #9773] DEBUG -- : filename: 2020-06-16-p0446-how-much-can-you-learn-just-two-columns.md
+D, [2025-06-11T20:50:01.233394 #9778] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42533141.json
+D, [2025-06-11T20:50:01.233741 #9778] DEBUG -- : 
+D, [2025-06-11T20:50:01.998023 #9778] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42533141[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m801[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/16 04:43:34 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/16 04:43:23 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"Matt Web of interconnected.org [Filtered for hallway tracks and spreadsheet parties](http://interconnected.org/home/2020/06/15/hallway_track)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:01.998255 #9778] DEBUG -- : content [0;33m"Matt Web of interconnected.org [Filtered for hallway tracks and spreadsheet parties](http://interconnected.org/home/2020/06/15/hallway_track)"[0m
+D, [2025-06-11T20:50:01.999396 #9778] DEBUG -- : created_at: [0;32m2020-06-16 04:43:23 +0000[0m
+/Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:130:in `split': bad URI(is not URI?): "Matt Web of interconnected.org [Filtered for hallway tracks and spreadsheet parties](http://interconnected.org/home/2020/06/15/hallway_track" (URI::InvalidURIError)
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:135:in `parse'
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/common.rb:187:in `parse'
+	from ./blogthis.rb:84:in `<main>'
+D, [2025-06-11T20:50:07.221216 #9782] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42496964.json
+D, [2025-06-11T20:50:07.221629 #9782] DEBUG -- : 
+D, [2025-06-11T20:50:07.985152 #9782] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42496964[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m802[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/13 03:42:28 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/13 03:41:36 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[A global outlook to the interruption of education due to COVID -19 Pandemic: Navigating in a time of uncertainty and crisis](https://www.downes.ca/cgi-bin/page.cgi?post=71004)\r\nAras  Bozkurt,  Insung  Jung,  Junhong  Xiao,  Viviane  Vladimirschi,  Robert  Schuwe"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:07.985292 #9782] DEBUG -- : content [0;33m"[A global outlook to the interruption of education due to COVID -19 Pandemic: Navigating in a time of uncertainty and crisis](https://www.downes.ca/cgi-bin/page.cgi?post=71004)\r\nAras  Bozkurt,  Insung  Jung,  Junhong  Xiao,  Viviane  Vladimirschi,  Robert  Schuwe"[0m
+D, [2025-06-11T20:50:07.986087 #9782] DEBUG -- : created_at: [0;32m2020-06-13 03:41:36 +0000[0m
+D, [2025-06-11T20:50:07.986264 #9782] DEBUG -- : parsed_uri.path: /cgi-bin/page.cgi
+D, [2025-06-11T20:50:07.986300 #9782] DEBUG -- : slug:page
+D, [2025-06-11T20:50:07.986323 #9782] DEBUG -- : filename: 2020-06-13-p0341-page.md
+D, [2025-06-11T20:50:13.196424 #9786] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42496956.json
+D, [2025-06-11T20:50:13.197298 #9786] DEBUG -- : 
+D, [2025-06-11T20:50:14.110229 #9786] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42496956[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m803[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/13 03:38:54 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/13 03:38:54 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[matloff I’m nearing completion of writing my new book, The Art of Machine Learning: Algorithms+Data+R,](https://matloff.wordpress.com/2020/06/12/new-book-on-machine-learning/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:14.110416 #9786] DEBUG -- : content [0;33m"[matloff I’m nearing completion of writing my new book, The Art of Machine Learning: Algorithms+Data+R,](https://matloff.wordpress.com/2020/06/12/new-book-on-machine-learning/)"[0m
+D, [2025-06-11T20:50:14.111291 #9786] DEBUG -- : created_at: [0;32m2020-06-13 03:38:54 +0000[0m
+D, [2025-06-11T20:50:14.111492 #9786] DEBUG -- : parsed_uri.path: /2020/06/12/new-book-on-machine-learning/
+D, [2025-06-11T20:50:14.111541 #9786] DEBUG -- : slug:new-book-on-machine-learning
+D, [2025-06-11T20:50:14.111567 #9786] DEBUG -- : filename: 2020-06-13-p0338-new-book-on-machine-learning.md
+D, [2025-06-11T20:50:19.300973 #9791] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42487279.json
+D, [2025-06-11T20:50:19.301029 #9791] DEBUG -- : 
+D, [2025-06-11T20:50:20.064735 #9791] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42487279[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m804[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:27:31 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/12 05:31:13 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Chenchénstway is a Squamish word meaning “to lift each other up”](http://www.chriscorrigan.com/parkinglot/chenchenstway/) <-- QUOTE: `The word “Chenchénstway” is a Squamish word meaning “to lift each other up” and it’s a key value in Squamish life.`"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:20.064872 #9791] DEBUG -- : content [0;33m"[Chenchénstway is a Squamish word meaning “to lift each other up”](http://www.chriscorrigan.com/parkinglot/chenchenstway/) <-- QUOTE: `The word “Chenchénstway” is a Squamish word meaning “to lift each other up” and it’s a key value in Squamish life.`"[0m
+D, [2025-06-11T20:50:20.065759 #9791] DEBUG -- : created_at: [0;32m2020-06-12 05:31:13 +0000[0m
+D, [2025-06-11T20:50:20.065894 #9791] DEBUG -- : parsed_uri.path: /parkinglot/chenchenstway/
+D, [2025-06-11T20:50:20.065925 #9791] DEBUG -- : slug:chenchenstway
+D, [2025-06-11T20:50:20.065943 #9791] DEBUG -- : filename: 2020-06-12-p0531-chenchenstway.md
+D, [2025-06-11T20:50:25.268412 #9794] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42474545.json
+D, [2025-06-11T20:50:25.268473 #9794] DEBUG -- : 
+D, [2025-06-11T20:50:26.031778 #9794] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42474545[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m805[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/11 14:29:58 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/11 14:29:58 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Getting Support Is About Finding The Right Story](https://www.feverbee.com/the-right-story/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Feverbee+%28FeverBee+-+Practical+advice+for+building+online+communities%29)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:26.032027 #9794] DEBUG -- : content [0;33m"[Getting Support Is About Finding The Right Story](https://www.feverbee.com/the-right-story/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Feverbee+%28FeverBee+-+Practical+advice+for+building+online+communities%29)"[0m
+D, [2025-06-11T20:50:26.032879 #9794] DEBUG -- : created_at: [0;32m2020-06-11 14:29:58 +0000[0m
+D, [2025-06-11T20:50:26.033036 #9794] DEBUG -- : parsed_uri.path: /the-right-story/
+D, [2025-06-11T20:50:26.033064 #9794] DEBUG -- : slug:the-right-story
+D, [2025-06-11T20:50:26.033081 #9794] DEBUG -- : filename: 2020-06-11-p1429-the-right-story.md
+D, [2025-06-11T20:50:31.248273 #9800] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42436765.json
+D, [2025-06-11T20:50:31.248332 #9800] DEBUG -- : 
+D, [2025-06-11T20:50:32.019525 #9800] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42436765[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m806[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/09 07:12:41 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/09 07:12:41 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[obsidian](https://obsidian.md/)- kb on top of markdown"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:32.020714 #9800] DEBUG -- : content [0;33m"[obsidian](https://obsidian.md/)- kb on top of markdown"[0m
+D, [2025-06-11T20:50:32.021956 #9800] DEBUG -- : created_at: [0;32m2020-06-09 07:12:41 +0000[0m
+D, [2025-06-11T20:50:32.022155 #9800] DEBUG -- : parsed_uri.path: /
+D, [2025-06-11T20:50:32.022192 #9800] DEBUG -- : slug:obsidian-md
+D, [2025-06-11T20:50:32.022214 #9800] DEBUG -- : filename: 2020-06-09-p0712-obsidian-md.md
+D, [2025-06-11T20:50:37.243416 #9804] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42435060.json
+D, [2025-06-11T20:50:37.243487 #9804] DEBUG -- : 
+D, [2025-06-11T20:50:38.009774 #9804] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42435060[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m807[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/09 01:00:24 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/09 00:37:21 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Becoming anti-racist: Learning about race in CS Education](https://computinged.wordpress.com/2020/06/08/lets-talk-about-race-in-cs-education-more-resources/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:38.009962 #9804] DEBUG -- : content [0;33m"[Becoming anti-racist: Learning about race in CS Education](https://computinged.wordpress.com/2020/06/08/lets-talk-about-race-in-cs-education-more-resources/)"[0m
+D, [2025-06-11T20:50:38.010928 #9804] DEBUG -- : created_at: [0;32m2020-06-09 00:37:21 +0000[0m
+D, [2025-06-11T20:50:38.011095 #9804] DEBUG -- : parsed_uri.path: /2020/06/08/lets-talk-about-race-in-cs-education-more-resources/
+D, [2025-06-11T20:50:38.011144 #9804] DEBUG -- : slug:lets-talk-about-race-in-cs-education-more-resources
+D, [2025-06-11T20:50:38.011164 #9804] DEBUG -- : filename: 2020-06-09-p0037-lets-talk-about-race-in-cs-education-more-resources.md
+D, [2025-06-11T20:50:43.214114 #9808] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42434933.json
+D, [2025-06-11T20:50:43.214181 #9808] DEBUG -- : 
+D, [2025-06-11T20:50:44.127760 #9808] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42434933[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m808[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/09 00:04:51 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/09 00:04:27 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[kim crayton: introduction to being an antiracist](https://ti.to/kim.crayton.llc/introduction-to-being-an-antiracist) ($USD30, June 27)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:44.127895 #9808] DEBUG -- : content [0;33m"[kim crayton: introduction to being an antiracist](https://ti.to/kim.crayton.llc/introduction-to-being-an-antiracist) ($USD30, June 27)"[0m
+D, [2025-06-11T20:50:44.128773 #9808] DEBUG -- : created_at: [0;32m2020-06-09 00:04:27 +0000[0m
+D, [2025-06-11T20:50:44.128941 #9808] DEBUG -- : parsed_uri.path: /kim.crayton.llc/introduction-to-being-an-antiracist
+D, [2025-06-11T20:50:44.128979 #9808] DEBUG -- : slug:introduction-to-being-an-antiracist
+D, [2025-06-11T20:50:44.129002 #9808] DEBUG -- : filename: 2020-06-09-p0004-introduction-to-being-an-antiracist.md
+D, [2025-06-11T20:50:49.332397 #9813] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42434931.json
+D, [2025-06-11T20:50:49.332464 #9813] DEBUG -- : 
+D, [2025-06-11T20:50:50.098454 #9813] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42434931[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m809[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/09 00:03:09 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/09 00:02:59 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[anti-racist resources](https://docs.google.com/document/d/1cYgOQb4ZjrSAePHm6N7cVoCIsT1QWwrvU5mZ19Rl0Qk/edit)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:50.098645 #9813] DEBUG -- : content [0;33m"[anti-racist resources](https://docs.google.com/document/d/1cYgOQb4ZjrSAePHm6N7cVoCIsT1QWwrvU5mZ19Rl0Qk/edit)"[0m
+D, [2025-06-11T20:50:50.099675 #9813] DEBUG -- : created_at: [0;32m2020-06-09 00:02:59 +0000[0m
+D, [2025-06-11T20:50:50.099861 #9813] DEBUG -- : parsed_uri.path: /document/d/1cYgOQb4ZjrSAePHm6N7cVoCIsT1QWwrvU5mZ19Rl0Qk/edit
+D, [2025-06-11T20:50:50.099901 #9813] DEBUG -- : slug:edit
+D, [2025-06-11T20:50:50.099924 #9813] DEBUG -- : filename: 2020-06-09-p0002-edit.md
+D, [2025-06-11T20:50:55.300154 #9818] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42423799.json
+D, [2025-06-11T20:50:55.300227 #9818] DEBUG -- : 
+D, [2025-06-11T20:50:56.212862 #9818] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42423799[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m810[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/08 03:44:50 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/08 03:44:41 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[iwanthue.R](https://gist.github.com/johnbaums/45b49da5e260a9fc1cd7)  Palettes of distinct colours, generated through kmeans clustering of LAB colour space"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:50:56.213074 #9818] DEBUG -- : content [0;33m"[iwanthue.R](https://gist.github.com/johnbaums/45b49da5e260a9fc1cd7)  Palettes of distinct colours, generated through kmeans clustering of LAB colour space"[0m
+D, [2025-06-11T20:50:56.214351 #9818] DEBUG -- : created_at: [0;32m2020-06-08 03:44:41 +0000[0m
+D, [2025-06-11T20:50:56.214621 #9818] DEBUG -- : parsed_uri.path: /johnbaums/45b49da5e260a9fc1cd7
+D, [2025-06-11T20:50:56.214696 #9818] DEBUG -- : slug:45b49da5e260a9fc1cd7
+D, [2025-06-11T20:50:56.214733 #9818] DEBUG -- : filename: 2020-06-08-p0344-45b49da5e260a9fc1cd7.md
+D, [2025-06-11T20:51:01.423375 #9822] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42419921.json
+D, [2025-06-11T20:51:01.423435 #9822] DEBUG -- : 
+D, [2025-06-11T20:51:02.187082 #9822] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42419921[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m811[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/07 17:52:30 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/07 17:52:03 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[terminius gets confused with ash of gods so force it to use integrated graphics](https://github.com/Eugeny/terminus/issues/657)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:02.187350 #9822] DEBUG -- : content [0;33m"[terminius gets confused with ash of gods so force it to use integrated graphics](https://github.com/Eugeny/terminus/issues/657)"[0m
+D, [2025-06-11T20:51:02.188578 #9822] DEBUG -- : created_at: [0;32m2020-06-07 17:52:03 +0000[0m
+D, [2025-06-11T20:51:02.188814 #9822] DEBUG -- : parsed_uri.path: /Eugeny/terminus/issues/657
+D, [2025-06-11T20:51:02.188872 #9822] DEBUG -- : slug:657
+D, [2025-06-11T20:51:02.188902 #9822] DEBUG -- : filename: 2020-06-07-p1752-657.md
+D, [2025-06-11T20:51:07.426849 #9826] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42418570.json
+D, [2025-06-11T20:51:07.426913 #9826] DEBUG -- : 
+D, [2025-06-11T20:51:08.341455 #9826] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42418570[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m812[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/07 15:34:49 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/07 15:34:33 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[wsl2 not supported on c630 because of firmware issues?](https://forums.lenovo.com/t5/Lenovo-Yoga-Series-Notebooks/Lenovo-Yoga-C630-1-33-Firmware-issues/m-p/4541874)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:08.341597 #9826] DEBUG -- : content [0;33m"[wsl2 not supported on c630 because of firmware issues?](https://forums.lenovo.com/t5/Lenovo-Yoga-Series-Notebooks/Lenovo-Yoga-C630-1-33-Firmware-issues/m-p/4541874)"[0m
+D, [2025-06-11T20:51:08.342498 #9826] DEBUG -- : created_at: [0;32m2020-06-07 15:34:33 +0000[0m
+D, [2025-06-11T20:51:08.342663 #9826] DEBUG -- : parsed_uri.path: /t5/Lenovo-Yoga-Series-Notebooks/Lenovo-Yoga-C630-1-33-Firmware-issues/m-p/4541874
+D, [2025-06-11T20:51:08.342701 #9826] DEBUG -- : slug:4541874
+D, [2025-06-11T20:51:08.342723 #9826] DEBUG -- : filename: 2020-06-07-p1534-4541874.md
+D, [2025-06-11T20:51:13.538479 #9830] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42400419.json
+D, [2025-06-11T20:51:13.538531 #9830] DEBUG -- : 
+D, [2025-06-11T20:51:14.302472 #9830] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42400419[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m813[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/06 22:52:16 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/06 22:52:16 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Black Software: The Internet & Racial Justice, from the Afronet to Black Lives Matter](https://bookshop.org/books/black-software-the-internet-racial-justice-from-the-afronet-to-black-lives-matter/9780190863845)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:14.302672 #9830] DEBUG -- : content [0;33m"[Black Software: The Internet & Racial Justice, from the Afronet to Black Lives Matter](https://bookshop.org/books/black-software-the-internet-racial-justice-from-the-afronet-to-black-lives-matter/9780190863845)"[0m
+D, [2025-06-11T20:51:14.303617 #9830] DEBUG -- : created_at: [0;32m2020-06-06 22:52:16 +0000[0m
+D, [2025-06-11T20:51:14.303782 #9830] DEBUG -- : parsed_uri.path: /books/black-software-the-internet-racial-justice-from-the-afronet-to-black-lives-matter/9780190863845
+D, [2025-06-11T20:51:14.303821 #9830] DEBUG -- : slug:9780190863845
+D, [2025-06-11T20:51:14.303845 #9830] DEBUG -- : filename: 2020-06-06-p2252-9780190863845.md
+D, [2025-06-11T20:51:19.500644 #9834] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42400418.json
+D, [2025-06-11T20:51:19.500710 #9834] DEBUG -- : 
+D, [2025-06-11T20:51:20.417714 #9834] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42400418[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m814[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:28:14 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/06 22:51:37 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Tiffani Bell : It’s Time We Dealt With White Supremacy in Tech](https://marker.medium.com/its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:20.417957 #9834] DEBUG -- : content [0;33m"[Tiffani Bell : It’s Time We Dealt With White Supremacy in Tech](https://marker.medium.com/its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809)"[0m
+D, [2025-06-11T20:51:20.419316 #9834] DEBUG -- : created_at: [0;32m2020-06-06 22:51:37 +0000[0m
+D, [2025-06-11T20:51:20.419552 #9834] DEBUG -- : parsed_uri.path: /its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809
+D, [2025-06-11T20:51:20.419605 #9834] DEBUG -- : slug:its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809
+D, [2025-06-11T20:51:20.419636 #9834] DEBUG -- : filename: 2020-06-06-p2251-its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809.md
+D, [2025-06-11T20:51:25.614585 #9838] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42395062.json
+D, [2025-06-11T20:51:25.614647 #9838] DEBUG -- : 
+D, [2025-06-11T20:51:26.529346 #9838] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42395062[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m815[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:28:30 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/06 17:38:42 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[jstor:: Institutionalized Racism: A Syllabus](https://daily.jstor.org/institutionalized-racism-a-syllabus/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:26.529546 #9838] DEBUG -- : content [0;33m"[jstor:: Institutionalized Racism: A Syllabus](https://daily.jstor.org/institutionalized-racism-a-syllabus/)"[0m
+D, [2025-06-11T20:51:26.530617 #9838] DEBUG -- : created_at: [0;32m2020-06-06 17:38:42 +0000[0m
+D, [2025-06-11T20:51:26.530848 #9838] DEBUG -- : parsed_uri.path: /institutionalized-racism-a-syllabus/
+D, [2025-06-11T20:51:26.530894 #9838] DEBUG -- : slug:institutionalized-racism-a-syllabus
+D, [2025-06-11T20:51:26.530920 #9838] DEBUG -- : filename: 2020-06-06-p1738-institutionalized-racism-a-syllabus.md
+D, [2025-06-11T20:51:31.727889 #9842] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42386318.json
+D, [2025-06-11T20:51:31.727949 #9842] DEBUG -- : 
+D, [2025-06-11T20:51:32.494346 #9842] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42386318[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m816[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:29:33 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/05 19:34:57 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Clapback chest:: a search engine for all things social and political (within the context of the U.S.), centered mostly (though not exclusively) on common talking points we'd deem uninformed (or ignorant) as it relates to race](https://blacksocialists.us/clapback-chest)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:32.494493 #9842] DEBUG -- : content [0;33m"[Clapback chest:: a search engine for all things social and political (within the context of the U.S.), centered mostly (though not exclusively) on common talking points we'd deem uninformed (or ignorant) as it relates to race](https://blacksocialists.us/clapback-chest)"[0m
+D, [2025-06-11T20:51:32.495326 #9842] DEBUG -- : created_at: [0;32m2020-06-05 19:34:57 +0000[0m
+D, [2025-06-11T20:51:32.495465 #9842] DEBUG -- : parsed_uri.path: /clapback-chest
+D, [2025-06-11T20:51:32.495497 #9842] DEBUG -- : slug:clapback-chest
+D, [2025-06-11T20:51:32.495518 #9842] DEBUG -- : filename: 2020-06-05-p1934-clapback-chest.md
+D, [2025-06-11T20:51:37.722945 #9848] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42386164.json
+D, [2025-06-11T20:51:37.723029 #9848] DEBUG -- : 
+D, [2025-06-11T20:51:38.639140 #9848] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42386164[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m817[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/05 19:18:57 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/05 19:18:41 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Black Organizations And Anti-Racist Groups Canadians Can Support Now](https://www.huffingtonpost.ca/entry/black-organizations-anti-racist-groups-canada_ca_5ed57ea1c5b6867b30853e20) <--- huffington post"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:38.639294 #9848] DEBUG -- : content [0;33m"[Black Organizations And Anti-Racist Groups Canadians Can Support Now](https://www.huffingtonpost.ca/entry/black-organizations-anti-racist-groups-canada_ca_5ed57ea1c5b6867b30853e20) <--- huffington post"[0m
+D, [2025-06-11T20:51:38.640175 #9848] DEBUG -- : created_at: [0;32m2020-06-05 19:18:41 +0000[0m
+D, [2025-06-11T20:51:38.640379 #9848] DEBUG -- : parsed_uri.path: /entry/black-organizations-anti-racist-groups-canada_ca_5ed57ea1c5b6867b30853e20
+D, [2025-06-11T20:51:38.640687 #9848] DEBUG -- : slug:black-organizations-anti-racist-groups-canada_ca_5ed57ea1c5b6867b30853e20
+D, [2025-06-11T20:51:38.640738 #9848] DEBUG -- : filename: 2020-06-05-p1918-black-organizations-anti-racist-groups-canada_ca_5ed57ea1c5b6867b30853e20.md
+D, [2025-06-11T20:51:43.878567 #9852] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42382229.json
+D, [2025-06-11T20:51:43.878652 #9852] DEBUG -- : 
+D, [2025-06-11T20:51:44.792659 #9852] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42382229[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m818[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/05 15:13:20 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/05 15:13:20 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Urgent message from Peter Corning, basis 4 for Synthecracy = shared values for Cooperation](https://theconnectivist.wordpress.com/2020/06/02/urgent-message-from-peter-corning-basic-4-for-synthecracy-shared-values-for-cooperation/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:44.792803 #9852] DEBUG -- : content [0;33m"[Urgent message from Peter Corning, basis 4 for Synthecracy = shared values for Cooperation](https://theconnectivist.wordpress.com/2020/06/02/urgent-message-from-peter-corning-basic-4-for-synthecracy-shared-values-for-cooperation/)"[0m
+D, [2025-06-11T20:51:44.793669 #9852] DEBUG -- : created_at: [0;32m2020-06-05 15:13:20 +0000[0m
+D, [2025-06-11T20:51:44.793829 #9852] DEBUG -- : parsed_uri.path: /2020/06/02/urgent-message-from-peter-corning-basic-4-for-synthecracy-shared-values-for-cooperation/
+D, [2025-06-11T20:51:44.793867 #9852] DEBUG -- : slug:urgent-message-from-peter-corning-basic-4-for-synthecracy-shared-values-for-cooperation
+D, [2025-06-11T20:51:44.793902 #9852] DEBUG -- : filename: 2020-06-05-p1513-urgent-message-from-peter-corning-basic-4-for-synthecracy-shared-values-for-cooperation.md
+D, [2025-06-11T20:51:49.996711 #9856] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42376309.json
+D, [2025-06-11T20:51:49.996778 #9856] DEBUG -- : 
+D, [2025-06-11T20:51:50.762480 #9856] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42376309[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m819[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:29:59 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/05 05:32:53 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[afro.ca vancouver black owned restaurants, groceries, etc](https://www.afrobiz.ca/Vancouver/restaurants)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:50.762658 #9856] DEBUG -- : content [0;33m"[afro.ca vancouver black owned restaurants, groceries, etc](https://www.afrobiz.ca/Vancouver/restaurants)"[0m
+D, [2025-06-11T20:51:50.763601 #9856] DEBUG -- : created_at: [0;32m2020-06-05 05:32:53 +0000[0m
+D, [2025-06-11T20:51:50.763754 #9856] DEBUG -- : parsed_uri.path: /Vancouver/restaurants
+D, [2025-06-11T20:51:50.763801 #9856] DEBUG -- : slug:restaurants
+D, [2025-06-11T20:51:50.763823 #9856] DEBUG -- : filename: 2020-06-05-p0532-restaurants.md
+D, [2025-06-11T20:51:55.990505 #9861] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42375002.json
+D, [2025-06-11T20:51:55.991347 #9861] DEBUG -- : 
+D, [2025-06-11T20:51:56.909337 #9861] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42375002[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m820[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:30:22 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/05 02:32:13 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Planning for Coexistence? Recognizing Indigenous Rights Through Land-use Planning in Canada and Australia, by the Australian academic Libby Porter and Canadian Janice Barry](https://www.theguardian.com/sustainable-business/2016/nov/22/can-indigenous-culture-ever-coexist-with-urban-planning)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:51:56.909538 #9861] DEBUG -- : content [0;33m"[Planning for Coexistence? Recognizing Indigenous Rights Through Land-use Planning in Canada and Australia, by the Australian academic Libby Porter and Canadian Janice Barry](https://www.theguardian.com/sustainable-business/2016/nov/22/can-indigenous-culture-ever-coexist-with-urban-planning)"[0m
+D, [2025-06-11T20:51:56.910559 #9861] DEBUG -- : created_at: [0;32m2020-06-05 02:32:13 +0000[0m
+D, [2025-06-11T20:51:56.910749 #9861] DEBUG -- : parsed_uri.path: /sustainable-business/2016/nov/22/can-indigenous-culture-ever-coexist-with-urban-planning
+D, [2025-06-11T20:51:56.910807 #9861] DEBUG -- : slug:can-indigenous-culture-ever-coexist-with-urban-planning
+D, [2025-06-11T20:51:56.910889 #9861] DEBUG -- : filename: 2020-06-05-p0232-can-indigenous-culture-ever-coexist-with-urban-planning.md
+D, [2025-06-11T20:52:02.134359 #9865] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42356551.json
+D, [2025-06-11T20:52:02.134422 #9865] DEBUG -- : 
+D, [2025-06-11T20:52:03.048414 #9865] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42356551[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m821[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/06/04 03:30:02 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/04 03:29:49 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[send emails with gmail api](https://blog.mailtrap.io/send-emails-with-gmail-api/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:03.048637 #9865] DEBUG -- : content [0;33m"[send emails with gmail api](https://blog.mailtrap.io/send-emails-with-gmail-api/)"[0m
+D, [2025-06-11T20:52:03.049492 #9865] DEBUG -- : created_at: [0;32m2020-06-04 03:29:49 +0000[0m
+D, [2025-06-11T20:52:03.049684 #9865] DEBUG -- : parsed_uri.path: /send-emails-with-gmail-api/
+D, [2025-06-11T20:52:03.049723 #9865] DEBUG -- : slug:send-emails-with-gmail-api
+D, [2025-06-11T20:52:03.049748 #9865] DEBUG -- : filename: 2020-06-04-p0329-send-emails-with-gmail-api.md
+D, [2025-06-11T20:52:08.261322 #9869] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42337909.json
+D, [2025-06-11T20:52:08.261427 #9869] DEBUG -- : 
+D, [2025-06-11T20:52:09.026015 #9869] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42337909[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m822[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:31:16 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/03 04:33:33 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Black lives matter:: more resources local to Vancouver (places to donate and things to read) from SFU publishing faculty] (https://www.instagram.com/p/CA8pTL4hDVN/?igshid=1nka6flu0bfy6)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:09.026544 #9869] DEBUG -- : content [0;33m"[Black lives matter:: more resources local to Vancouver (places to donate and things to read) from SFU publishing faculty] (https://www.instagram.com/p/CA8pTL4hDVN/?igshid=1nka6flu0bfy6)"[0m
+D, [2025-06-11T20:52:09.027591 #9869] DEBUG -- : created_at: [0;32m2020-06-03 04:33:33 +0000[0m
+/Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:130:in `split': bad URI(is not URI?): "[Black lives matter:: more resources local to Vancouver (places to donate and things to read" (URI::InvalidURIError)
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:135:in `parse'
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/common.rb:187:in `parse'
+	from ./blogthis.rb:84:in `<main>'
+D, [2025-06-11T20:52:14.250617 #9874] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42325236.json
+D, [2025-06-11T20:52:14.250685 #9874] DEBUG -- : 
+D, [2025-06-11T20:52:15.015056 #9874] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42325236[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m823[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/08 15:51:41 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/06/02 16:56:11 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Downes:: Where do Blog posts come from?](https://www.downes.ca/cgi-bin/page.cgi?post=70970)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:15.015187 #9874] DEBUG -- : content [0;33m"[Downes:: Where do Blog posts come from?](https://www.downes.ca/cgi-bin/page.cgi?post=70970)"[0m
+D, [2025-06-11T20:52:15.015991 #9874] DEBUG -- : created_at: [0;32m2020-06-02 16:56:11 +0000[0m
+D, [2025-06-11T20:52:15.016141 #9874] DEBUG -- : parsed_uri.path: /cgi-bin/page.cgi
+D, [2025-06-11T20:52:15.016176 #9874] DEBUG -- : slug:page
+D, [2025-06-11T20:52:15.016203 #9874] DEBUG -- : filename: 2020-06-02-p1656-page.md
+D, [2025-06-11T20:52:20.249951 #9878] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42271515.json
+D, [2025-06-11T20:52:20.250014 #9878] DEBUG -- : 
+D, [2025-06-11T20:52:21.015220 #9878] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42271515[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m824[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/30 21:23:50 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/30 21:23:34 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[adventure cycling podcast](https://www.adventurecycling.org/subscribe/podcast/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:21.015354 #9878] DEBUG -- : content [0;33m"[adventure cycling podcast](https://www.adventurecycling.org/subscribe/podcast/)"[0m
+D, [2025-06-11T20:52:21.016284 #9878] DEBUG -- : created_at: [0;32m2020-05-30 21:23:34 +0000[0m
+D, [2025-06-11T20:52:21.016436 #9878] DEBUG -- : parsed_uri.path: /subscribe/podcast/
+D, [2025-06-11T20:52:21.016472 #9878] DEBUG -- : slug:podcast
+D, [2025-06-11T20:52:21.016497 #9878] DEBUG -- : filename: 2020-05-30-p2123-podcast.md
+D, [2025-06-11T20:52:26.229177 #9882] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42262862.json
+D, [2025-06-11T20:52:26.229252 #9882] DEBUG -- : 
+D, [2025-06-11T20:52:27.143201 #9882] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42262862[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m825[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/29 21:08:01 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/29 21:07:40 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[deno is a browser for code](https://simonwillison.net/2020/May/29/deno-browser-code/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:27.143398 #9882] DEBUG -- : content [0;33m"[deno is a browser for code](https://simonwillison.net/2020/May/29/deno-browser-code/)"[0m
+D, [2025-06-11T20:52:27.144311 #9882] DEBUG -- : created_at: [0;32m2020-05-29 21:07:40 +0000[0m
+D, [2025-06-11T20:52:27.144475 #9882] DEBUG -- : parsed_uri.path: /2020/May/29/deno-browser-code/
+D, [2025-06-11T20:52:27.144509 #9882] DEBUG -- : slug:deno-browser-code
+D, [2025-06-11T20:52:27.144534 #9882] DEBUG -- : filename: 2020-05-29-p2107-deno-browser-code.md
+D, [2025-06-11T20:52:32.364994 #9887] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42262473.json
+D, [2025-06-11T20:52:32.365050 #9887] DEBUG -- : 
+D, [2025-06-11T20:52:33.131080 #9887] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42262473[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m826[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/29 20:13:06 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/29 20:13:06 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Practical Python Programming](https://simonwillison.net/2020/May/29/practical-python-programming/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:33.131285 #9887] DEBUG -- : content [0;33m"[Practical Python Programming](https://simonwillison.net/2020/May/29/practical-python-programming/)"[0m
+D, [2025-06-11T20:52:33.132210 #9887] DEBUG -- : created_at: [0;32m2020-05-29 20:13:06 +0000[0m
+D, [2025-06-11T20:52:33.132364 #9887] DEBUG -- : parsed_uri.path: /2020/May/29/practical-python-programming/
+D, [2025-06-11T20:52:33.132402 #9887] DEBUG -- : slug:practical-python-programming
+D, [2025-06-11T20:52:33.132426 #9887] DEBUG -- : filename: 2020-05-29-p2013-practical-python-programming.md
+D, [2025-06-11T20:52:38.356160 #9893] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42237290.json
+D, [2025-06-11T20:52:38.356216 #9893] DEBUG -- : 
+D, [2025-06-11T20:52:39.269720 #9893] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42237290[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m827[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/28 04:45:29 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/28 04:45:29 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[10 Mind-Bending Hard Science Fiction Books by Women](https://theportalist.com/hard-science-fiction-books-by-women)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:39.269847 #9893] DEBUG -- : content [0;33m"[10 Mind-Bending Hard Science Fiction Books by Women](https://theportalist.com/hard-science-fiction-books-by-women)"[0m
+D, [2025-06-11T20:52:39.270637 #9893] DEBUG -- : created_at: [0;32m2020-05-28 04:45:29 +0000[0m
+D, [2025-06-11T20:52:39.270772 #9893] DEBUG -- : parsed_uri.path: /hard-science-fiction-books-by-women
+D, [2025-06-11T20:52:39.270803 #9893] DEBUG -- : slug:hard-science-fiction-books-by-women
+D, [2025-06-11T20:52:39.270824 #9893] DEBUG -- : filename: 2020-05-28-p0445-hard-science-fiction-books-by-women.md
+D, [2025-06-11T20:52:44.465816 #9898] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42230784.json
+D, [2025-06-11T20:52:44.465876 #9898] DEBUG -- : 
+D, [2025-06-11T20:52:45.380883 #9898] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42230784[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m828[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/27 15:07:01 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/27 15:07:01 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[a short history of bi-directional links](https://maggieappleton.com/bidirectionals)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:45.381028 #9898] DEBUG -- : content [0;33m"[a short history of bi-directional links](https://maggieappleton.com/bidirectionals)"[0m
+D, [2025-06-11T20:52:45.381930 #9898] DEBUG -- : created_at: [0;32m2020-05-27 15:07:01 +0000[0m
+D, [2025-06-11T20:52:45.382079 #9898] DEBUG -- : parsed_uri.path: /bidirectionals
+D, [2025-06-11T20:52:45.382109 #9898] DEBUG -- : slug:bidirectionals
+D, [2025-06-11T20:52:45.382129 #9898] DEBUG -- : filename: 2020-05-27-p1507-bidirectionals.md
+D, [2025-06-11T20:52:50.587149 #9902] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42215640.json
+D, [2025-06-11T20:52:50.587197 #9902] DEBUG -- : 
+D, [2025-06-11T20:52:51.500993 #9902] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42215640[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m829[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:31:28 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/26 15:27:01 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Ajit Joakar: AI superpowers – for people and jobs](https://www.datasciencecentral.com/profiles/blogs/ai-superpowers-for-people-and-jobs)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:51.501169 #9902] DEBUG -- : content [0;33m"[Ajit Joakar: AI superpowers – for people and jobs](https://www.datasciencecentral.com/profiles/blogs/ai-superpowers-for-people-and-jobs)"[0m
+D, [2025-06-11T20:52:51.502260 #9902] DEBUG -- : created_at: [0;32m2020-05-26 15:27:01 +0000[0m
+D, [2025-06-11T20:52:51.502471 #9902] DEBUG -- : parsed_uri.path: /profiles/blogs/ai-superpowers-for-people-and-jobs
+D, [2025-06-11T20:52:51.502515 #9902] DEBUG -- : slug:ai-superpowers-for-people-and-jobs
+D, [2025-06-11T20:52:51.502537 #9902] DEBUG -- : filename: 2020-05-26-p1527-ai-superpowers-for-people-and-jobs.md
+D, [2025-06-11T20:52:56.711267 #9909] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42214511.json
+D, [2025-06-11T20:52:56.711337 #9909] DEBUG -- : 
+D, [2025-06-11T20:52:57.528646 #9909] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42214511[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m830[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/26 13:51:03 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/26 13:51:03 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[The Persistence of Anti-Asian Racism in Vancouver | Part I](https://themainlander.com/2012/04/02/the-persistence-of-anti-asian-racism-in-vancouver-part-i/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:52:57.528793 #9909] DEBUG -- : content [0;33m"[The Persistence of Anti-Asian Racism in Vancouver | Part I](https://themainlander.com/2012/04/02/the-persistence-of-anti-asian-racism-in-vancouver-part-i/)"[0m
+D, [2025-06-11T20:52:57.529685 #9909] DEBUG -- : created_at: [0;32m2020-05-26 13:51:03 +0000[0m
+D, [2025-06-11T20:52:57.529851 #9909] DEBUG -- : parsed_uri.path: /2012/04/02/the-persistence-of-anti-asian-racism-in-vancouver-part-i/
+D, [2025-06-11T20:52:57.529887 #9909] DEBUG -- : slug:the-persistence-of-anti-asian-racism-in-vancouver-part-i
+D, [2025-06-11T20:52:57.529909 #9909] DEBUG -- : filename: 2020-05-26-p1351-the-persistence-of-anti-asian-racism-in-vancouver-part-i.md
+D, [2025-06-11T20:53:02.742856 #9919] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42205474.json
+D, [2025-06-11T20:53:02.744063 #9919] DEBUG -- : 
+D, [2025-06-11T20:53:03.659488 #9919] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42205474[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m831[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/25 18:41:55 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/25 18:40:01 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[i hate hybrid meetings](https://threadreaderapp.com/thread/1264341436138270720.html):-) aka hybrid doesn't work, [dystopia](https://theintercept.com/2020/05/08/andrew-cuomo-eric-schmidt-coronavirus-tech-shock-doctrine/) but there are upsides"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:03.659670 #9919] DEBUG -- : content [0;33m"[i hate hybrid meetings](https://threadreaderapp.com/thread/1264341436138270720.html):-) aka hybrid doesn't work, [dystopia](https://theintercept.com/2020/05/08/andrew-cuomo-eric-schmidt-coronavirus-tech-shock-doctrine/) but there are upsides"[0m
+D, [2025-06-11T20:53:03.660710 #9919] DEBUG -- : created_at: [0;32m2020-05-25 18:40:01 +0000[0m
+D, [2025-06-11T20:53:03.660911 #9919] DEBUG -- : parsed_uri.path: /thread/1264341436138270720.html
+D, [2025-06-11T20:53:03.660954 #9919] DEBUG -- : slug:1264341436138270720
+D, [2025-06-11T20:53:03.660977 #9919] DEBUG -- : filename: 2020-05-25-p1840-1264341436138270720.md
+D, [2025-06-11T20:53:08.881773 #9923] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42154137.json
+D, [2025-06-11T20:53:08.881841 #9923] DEBUG -- : 
+D, [2025-06-11T20:53:09.827549 #9923] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42154137[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m832[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:32:54 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/22 05:14:04 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Piranha and feature flag debt tweet and paper](https://twitter.com/ph1/status/1263186195263164418 <- [piranha and feature flag paper](https://manu.sridharan.net/files/ICSE20-SEIP-Piranha.pdf)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:09.829100 #9923] DEBUG -- : content [0;33m"[Piranha and feature flag debt tweet and paper](https://twitter.com/ph1/status/1263186195263164418 <- [piranha and feature flag paper](https://manu.sridharan.net/files/ICSE20-SEIP-Piranha.pdf)"[0m
+D, [2025-06-11T20:53:09.830434 #9923] DEBUG -- : created_at: [0;32m2020-05-22 05:14:04 +0000[0m
+/Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:130:in `split': bad URI(is not URI?): "https://twitter.com/ph1/status/1263186195263164418 <- [piranha and feature flag paper](https://manu.sridharan.net/files/ICSE20-SEIP-Piranha.pdf" (URI::InvalidURIError)
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:135:in `parse'
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/common.rb:187:in `parse'
+	from ./blogthis.rb:84:in `<main>'
+D, [2025-06-11T20:53:15.053816 #9931] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42105795.json
+D, [2025-06-11T20:53:15.053870 #9931] DEBUG -- : 
+D, [2025-06-11T20:53:15.818736 #9931] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42105795[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m833[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/19 06:36:21 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/19 06:36:21 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[To get a better programming job, explain your problem-solving skills](https://codewithoutrules.com/2020/05/18/job-search-skills/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:15.818874 #9931] DEBUG -- : content [0;33m"[To get a better programming job, explain your problem-solving skills](https://codewithoutrules.com/2020/05/18/job-search-skills/)"[0m
+D, [2025-06-11T20:53:15.819677 #9931] DEBUG -- : created_at: [0;32m2020-05-19 06:36:21 +0000[0m
+D, [2025-06-11T20:53:15.819812 #9931] DEBUG -- : parsed_uri.path: /2020/05/18/job-search-skills/
+D, [2025-06-11T20:53:15.819843 #9931] DEBUG -- : slug:job-search-skills
+D, [2025-06-11T20:53:15.819864 #9931] DEBUG -- : filename: 2020-05-19-p0636-job-search-skills.md
+D, [2025-06-11T20:53:21.014833 #9943] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42076452.json
+D, [2025-06-11T20:53:21.014910 #9943] DEBUG -- : 
+D, [2025-06-11T20:53:21.783359 #9943] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42076452[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m834[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/18 04:26:58 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/18 04:26:58 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[carbon](https://carbon.now.sh/), beautiful code formatting for posting in a blog"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:21.783493 #9943] DEBUG -- : content [0;33m"[carbon](https://carbon.now.sh/), beautiful code formatting for posting in a blog"[0m
+D, [2025-06-11T20:53:21.784328 #9943] DEBUG -- : created_at: [0;32m2020-05-18 04:26:58 +0000[0m
+D, [2025-06-11T20:53:21.784463 #9943] DEBUG -- : parsed_uri.path: /
+D, [2025-06-11T20:53:21.784498 #9943] DEBUG -- : slug:carbon-now-sh
+D, [2025-06-11T20:53:21.784523 #9943] DEBUG -- : filename: 2020-05-18-p0426-carbon-now-sh.md
+D, [2025-06-11T20:53:26.982919 #9947] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42065435.json
+D, [2025-06-11T20:53:26.982996 #9947] DEBUG -- : 
+D, [2025-06-11T20:53:27.898720 #9947] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42065435[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m835[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/17 02:06:33 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/17 02:06:33 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Captura](https://mathewsachin.github.io/Captura/) via pomax"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:27.898933 #9947] DEBUG -- : content [0;33m"[Captura](https://mathewsachin.github.io/Captura/) via pomax"[0m
+D, [2025-06-11T20:53:27.899939 #9947] DEBUG -- : created_at: [0;32m2020-05-17 02:06:33 +0000[0m
+D, [2025-06-11T20:53:27.900110 #9947] DEBUG -- : parsed_uri.path: /Captura/
+D, [2025-06-11T20:53:27.900147 #9947] DEBUG -- : slug:captura
+D, [2025-06-11T20:53:27.900170 #9947] DEBUG -- : filename: 2020-05-17-p0206-captura.md
+D, [2025-06-11T20:53:33.091686 #9951] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42039600.json
+D, [2025-06-11T20:53:33.091739 #9951] DEBUG -- : 
+D, [2025-06-11T20:53:33.856263 #9951] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42039600[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m836[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/15 06:44:55 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/15 06:44:55 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[20,000 Roam Tags with Spacy](http://zachwill.com/20k-roam-tags/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:33.856383 #9951] DEBUG -- : content [0;33m"[20,000 Roam Tags with Spacy](http://zachwill.com/20k-roam-tags/)"[0m
+D, [2025-06-11T20:53:33.857169 #9951] DEBUG -- : created_at: [0;32m2020-05-15 06:44:55 +0000[0m
+D, [2025-06-11T20:53:33.857299 #9951] DEBUG -- : parsed_uri.path: /20k-roam-tags/
+D, [2025-06-11T20:53:33.857328 #9951] DEBUG -- : slug:20k-roam-tags
+D, [2025-06-11T20:53:33.857347 #9951] DEBUG -- : filename: 2020-05-15-p0644-20k-roam-tags.md
+D, [2025-06-11T20:53:39.039630 #9957] DEBUG -- : https://checkvist.com/checklists/742486/tasks/42011180.json
+D, [2025-06-11T20:53:39.040464 #9957] DEBUG -- : 
+D, [2025-06-11T20:53:39.806009 #9957] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m42011180[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m837[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/14 02:47:16 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/14 02:47:16 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[How to Make Animated Histograms in R, with ggplot and gganimate](https://flowingdata.com/2020/05/13/animated-histograms-ggplot-gganimate/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:39.806208 #9957] DEBUG -- : content [0;33m"[How to Make Animated Histograms in R, with ggplot and gganimate](https://flowingdata.com/2020/05/13/animated-histograms-ggplot-gganimate/)"[0m
+D, [2025-06-11T20:53:39.807219 #9957] DEBUG -- : created_at: [0;32m2020-05-14 02:47:16 +0000[0m
+D, [2025-06-11T20:53:39.807414 #9957] DEBUG -- : parsed_uri.path: /2020/05/13/animated-histograms-ggplot-gganimate/
+D, [2025-06-11T20:53:39.807458 #9957] DEBUG -- : slug:animated-histograms-ggplot-gganimate
+D, [2025-06-11T20:53:39.807484 #9957] DEBUG -- : filename: 2020-05-14-p0247-animated-histograms-ggplot-gganimate.md
+D, [2025-06-11T20:53:45.032393 #9961] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41991321.json
+D, [2025-06-11T20:53:45.032459 #9961] DEBUG -- : 
+D, [2025-06-11T20:53:45.946663 #9961] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41991321[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m838[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/12 19:52:40 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/12 19:52:40 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10#update-to-wsl-2)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:45.946811 #9961] DEBUG -- : content [0;33m"[Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10#update-to-wsl-2)"[0m
+D, [2025-06-11T20:53:45.947832 #9961] DEBUG -- : created_at: [0;32m2020-05-12 19:52:40 +0000[0m
+D, [2025-06-11T20:53:45.948044 #9961] DEBUG -- : parsed_uri.path: /en-us/windows/wsl/install-win10
+D, [2025-06-11T20:53:45.948089 #9961] DEBUG -- : slug:install-win10
+D, [2025-06-11T20:53:45.948116 #9961] DEBUG -- : filename: 2020-05-12-p1952-install-win10.md
+D, [2025-06-11T20:53:51.178942 #9965] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41964894.json
+D, [2025-06-11T20:53:51.179000 #9965] DEBUG -- : 
+D, [2025-06-11T20:53:51.977155 #9965] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41964894[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m839[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/11 01:04:03 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/11 01:04:03 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[OpenDataCam](https://twitter.com/tibbb/status/1257925327235448837)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:51.977354 #9965] DEBUG -- : content [0;33m"[OpenDataCam](https://twitter.com/tibbb/status/1257925327235448837)"[0m
+D, [2025-06-11T20:53:51.978333 #9965] DEBUG -- : created_at: [0;32m2020-05-11 01:04:03 +0000[0m
+D, [2025-06-11T20:53:51.978506 #9965] DEBUG -- : parsed_uri.path: /tibbb/status/1257925327235448837
+D, [2025-06-11T20:53:51.978544 #9965] DEBUG -- : slug:1257925327235448837
+D, [2025-06-11T20:53:51.978568 #9965] DEBUG -- : filename: 2020-05-11-p0104-1257925327235448837.md
+D, [2025-06-11T20:53:57.188790 #9969] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41955172.json
+D, [2025-06-11T20:53:57.188853 #9969] DEBUG -- : 
+D, [2025-06-11T20:53:57.955486 #9969] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41955172[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m840[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/10 16:35:44 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/10 16:35:26 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[brave new waves](https://archive.org/details/@shockcorridorcinema)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:53:57.955678 #9969] DEBUG -- : content [0;33m"[brave new waves](https://archive.org/details/@shockcorridorcinema)"[0m
+D, [2025-06-11T20:53:57.956859 #9969] DEBUG -- : created_at: [0;32m2020-05-10 16:35:26 +0000[0m
+D, [2025-06-11T20:53:57.957041 #9969] DEBUG -- : parsed_uri.path: /details/@shockcorridorcinema
+D, [2025-06-11T20:53:57.957086 #9969] DEBUG -- : slug:@shockcorridorcinema
+D, [2025-06-11T20:53:57.957110 #9969] DEBUG -- : filename: 2020-05-10-p1635-@shockcorridorcinema.md
+D, [2025-06-11T20:54:03.167563 #9974] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41893422.json
+D, [2025-06-11T20:54:03.167629 #9974] DEBUG -- : 
+D, [2025-06-11T20:54:03.934015 #9974] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41893422[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m841[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:33:16 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/05 20:50:30 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[mentoring: Social Distancing Doesn’t Have to Disrupt Mentorship](https://hbr.org/2020/04/social-distancing-doesnt-have-to-disrupt-mentorship) ; [Mentoring Pair Material: Apr / Oct - Getting Things Done at Mozilla](https://docs.google.com/document/d/1lOVE7BIsfbaG48ax9txnGWCc70i0KEU01FBaKTqLnHw/edit)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:03.935127 #9974] DEBUG -- : content [0;33m"[mentoring: Social Distancing Doesn’t Have to Disrupt Mentorship](https://hbr.org/2020/04/social-distancing-doesnt-have-to-disrupt-mentorship) ; [Mentoring Pair Material: Apr / Oct - Getting Things Done at Mozilla](https://docs.google.com/document/d/1lOVE7BIsfbaG48ax9txnGWCc70i0KEU01FBaKTqLnHw/edit)"[0m
+D, [2025-06-11T20:54:03.936355 #9974] DEBUG -- : created_at: [0;32m2020-05-05 20:50:30 +0000[0m
+D, [2025-06-11T20:54:03.936572 #9974] DEBUG -- : parsed_uri.path: /2020/04/social-distancing-doesnt-have-to-disrupt-mentorship
+D, [2025-06-11T20:54:03.936615 #9974] DEBUG -- : slug:social-distancing-doesnt-have-to-disrupt-mentorship
+D, [2025-06-11T20:54:03.936732 #9974] DEBUG -- : filename: 2020-05-05-p2050-social-distancing-doesnt-have-to-disrupt-mentorship.md
+D, [2025-06-11T20:54:09.165894 #9978] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41881136.json
+D, [2025-06-11T20:54:09.165961 #9978] DEBUG -- : 
+D, [2025-06-11T20:54:09.931393 #9978] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41881136[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m842[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/05/04 23:18:12 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/05/04 23:18:12 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Das gläserne Fahrrad](https://www.spiegel.de/auto/e-bike-trekkingrad-und-co-hersteller-sammeln-daten-von-fahrradfahrern-a-e006ee04-f7c0-4b91-881a-cf05a3fede5f)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:09.932512 #9978] DEBUG -- : content [0;33m"[Das gläserne Fahrrad](https://www.spiegel.de/auto/e-bike-trekkingrad-und-co-hersteller-sammeln-daten-von-fahrradfahrern-a-e006ee04-f7c0-4b91-881a-cf05a3fede5f)"[0m
+D, [2025-06-11T20:54:09.933576 #9978] DEBUG -- : created_at: [0;32m2020-05-04 23:18:12 +0000[0m
+D, [2025-06-11T20:54:09.933753 #9978] DEBUG -- : parsed_uri.path: /auto/e-bike-trekkingrad-und-co-hersteller-sammeln-daten-von-fahrradfahrern-a-e006ee04-f7c0-4b91-881a-cf05a3fede5f
+D, [2025-06-11T20:54:09.933797 #9978] DEBUG -- : slug:e-bike-trekkingrad-und-co-hersteller-sammeln-daten-von-fahrradfahrern-a-e006ee04-f7c0-4b91-881a-cf05a3fede5f
+D, [2025-06-11T20:54:09.933821 #9978] DEBUG -- : filename: 2020-05-04-p2318-e-bike-trekkingrad-und-co-hersteller-sammeln-daten-von-fahrradfahrern-a-e006ee04-f7c0-4b91-881a-cf05a3fede5f.md
+D, [2025-06-11T20:54:15.178786 #9982] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41762839.json
+D, [2025-06-11T20:54:15.178853 #9982] DEBUG -- : 
+D, [2025-06-11T20:54:15.958109 #9982] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41762839[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m843[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:33:37 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/04/28 05:43:10 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[parveen:: : It is the responsibility of a manager to give direct, timely, actionable feedback](https://twitter.com/kaler/status/1254574874133098500)\r\nA good way to structure feedback is:\r\n1) You did X.\r\n2) The impact on the business/product/team/customer was Y.\r\n3) I am asking you to do Z.\r\n\r\nA great book is Nonviolent Communication by Rosenberg."[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:15.958353 #9982] DEBUG -- : content [0;33m"[parveen:: : It is the responsibility of a manager to give direct, timely, actionable feedback](https://twitter.com/kaler/status/1254574874133098500)\r\nA good way to structure feedback is:\r\n1) You did X.\r\n2) The impact on the business/product/team/customer was Y.\r\n3) I am asking you to do Z.\r\n\r\nA great book is Nonviolent Communication by Rosenberg."[0m
+D, [2025-06-11T20:54:15.959339 #9982] DEBUG -- : created_at: [0;32m2020-04-28 05:43:10 +0000[0m
+D, [2025-06-11T20:54:15.959523 #9982] DEBUG -- : parsed_uri.path: /kaler/status/1254574874133098500
+D, [2025-06-11T20:54:15.959558 #9982] DEBUG -- : slug:1254574874133098500
+D, [2025-06-11T20:54:15.959582 #9982] DEBUG -- : filename: 2020-04-28-p0543-1254574874133098500.md
+D, [2025-06-11T20:54:21.183531 #9986] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41761354.json
+D, [2025-06-11T20:54:21.183706 #9986] DEBUG -- : 
+D, [2025-06-11T20:54:21.949258 #9986] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41761354[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m844[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/04/28 00:11:22 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/04/28 00:11:22 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Hugo vs Jekyll: an epic battle of static site generator themes](https://victoria.dev/blog/hugo-vs-jekyll-an-epic-battle-of-static-site-generator-themes/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:21.949420 #9986] DEBUG -- : content [0;33m"[Hugo vs Jekyll: an epic battle of static site generator themes](https://victoria.dev/blog/hugo-vs-jekyll-an-epic-battle-of-static-site-generator-themes/)"[0m
+D, [2025-06-11T20:54:21.950374 #9986] DEBUG -- : created_at: [0;32m2020-04-28 00:11:22 +0000[0m
+D, [2025-06-11T20:54:21.950538 #9986] DEBUG -- : parsed_uri.path: /blog/hugo-vs-jekyll-an-epic-battle-of-static-site-generator-themes/
+D, [2025-06-11T20:54:21.950575 #9986] DEBUG -- : slug:hugo-vs-jekyll-an-epic-battle-of-static-site-generator-themes
+D, [2025-06-11T20:54:21.950596 #9986] DEBUG -- : filename: 2020-04-28-p0011-hugo-vs-jekyll-an-epic-battle-of-static-site-generator-themes.md
+D, [2025-06-11T20:54:27.170647 #9993] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41761314.json
+D, [2025-06-11T20:54:27.170712 #9993] DEBUG -- : 
+D, [2025-06-11T20:54:27.935760 #9993] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41761314[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m845[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/04/27 23:48:20 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/04/27 23:48:20 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[structured text tools](https://github.com/dbohdan/structured-text-tools), pawk sounds good!"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:27.935935 #9993] DEBUG -- : content [0;33m"[structured text tools](https://github.com/dbohdan/structured-text-tools), pawk sounds good!"[0m
+D, [2025-06-11T20:54:27.936955 #9993] DEBUG -- : created_at: [0;32m2020-04-27 23:48:20 +0000[0m
+D, [2025-06-11T20:54:27.937122 #9993] DEBUG -- : parsed_uri.path: /dbohdan/structured-text-tools
+D, [2025-06-11T20:54:27.937158 #9993] DEBUG -- : slug:structured-text-tools
+D, [2025-06-11T20:54:27.937185 #9993] DEBUG -- : filename: 2020-04-27-p2348-structured-text-tools.md
+D, [2025-06-11T20:54:33.162801 #9998] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41756355.json
+D, [2025-06-11T20:54:33.162956 #9998] DEBUG -- : 
+D, [2025-06-11T20:54:33.929412 #9998] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41756355[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m846[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/04/27 17:33:24 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/04/27 17:33:24 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[A History of the Bicycle in the American City](https://medium.com/@colinkhughes/a-history-of-the-bicycle-in-the-american-city-3bbe2fee6814)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:33.930484 #9998] DEBUG -- : content [0;33m"[A History of the Bicycle in the American City](https://medium.com/@colinkhughes/a-history-of-the-bicycle-in-the-american-city-3bbe2fee6814)"[0m
+D, [2025-06-11T20:54:33.931492 #9998] DEBUG -- : created_at: [0;32m2020-04-27 17:33:24 +0000[0m
+D, [2025-06-11T20:54:33.931646 #9998] DEBUG -- : parsed_uri.path: /@colinkhughes/a-history-of-the-bicycle-in-the-american-city-3bbe2fee6814
+D, [2025-06-11T20:54:33.931682 #9998] DEBUG -- : slug:a-history-of-the-bicycle-in-the-american-city-3bbe2fee6814
+D, [2025-06-11T20:54:33.931706 #9998] DEBUG -- : filename: 2020-04-27-p1733-a-history-of-the-bicycle-in-the-american-city-3bbe2fee6814.md
+D, [2025-06-11T20:54:39.158350 #10004] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41674890.json
+D, [2025-06-11T20:54:39.158416 #10004] DEBUG -- : 
+D, [2025-06-11T20:54:39.923605 #10004] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41674890[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m847[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/04/22 19:16:00 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/04/22 19:16:00 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:39.924673 #10004] DEBUG -- : content [0;33m"[let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)"[0m
+D, [2025-06-11T20:54:39.925627 #10004] DEBUG -- : created_at: [0;32m2020-04-22 19:16:00 +0000[0m
+D, [2025-06-11T20:54:39.925822 #10004] DEBUG -- : parsed_uri.path: /mbrubeck/2014/08/08/toy-layout-engine-1.html
+D, [2025-06-11T20:54:39.925866 #10004] DEBUG -- : slug:toy-layout-engine-1
+D, [2025-06-11T20:54:39.925891 #10004] DEBUG -- : filename: 2020-04-22-p1916-toy-layout-engine-1.md
+D, [2025-06-11T20:54:45.153665 #10008] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41615187.json
+D, [2025-06-11T20:54:45.153728 #10008] DEBUG -- : 
+D, [2025-06-11T20:54:45.919589 #10008] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41615187[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m848[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/04/19 20:50:32 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/04/19 20:50:32 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[ben congdon: switching from jekyll to hugo](https://benjamincongdon.me/blog/2018/06/06/Switching-from-Jekyll-to-Hugo/) j[oe watkins](https://joe-watkins.io/webdev/migrate-from-jekyll-to-hugo/)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:45.919732 #10008] DEBUG -- : content [0;33m"[ben congdon: switching from jekyll to hugo](https://benjamincongdon.me/blog/2018/06/06/Switching-from-Jekyll-to-Hugo/) j[oe watkins](https://joe-watkins.io/webdev/migrate-from-jekyll-to-hugo/)"[0m
+D, [2025-06-11T20:54:45.920540 #10008] DEBUG -- : created_at: [0;32m2020-04-19 20:50:32 +0000[0m
+D, [2025-06-11T20:54:45.920687 #10008] DEBUG -- : parsed_uri.path: /blog/2018/06/06/Switching-from-Jekyll-to-Hugo/
+D, [2025-06-11T20:54:45.920721 #10008] DEBUG -- : slug:switching-from-jekyll-to-hugo
+D, [2025-06-11T20:54:45.920743 #10008] DEBUG -- : filename: 2020-04-19-p2050-switching-from-jekyll-to-hugo.md
+D, [2025-06-11T20:54:51.154404 #10022] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41602648.json
+D, [2025-06-11T20:54:51.154469 #10022] DEBUG -- : 
+D, [2025-06-11T20:54:51.939773 #10022] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41602648[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m849[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/04/18 19:52:25 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/04/18 19:52:25 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[how to record voice chats in zoom, imessage, skype etc using audio hijack](https://rogueamoeba.com/support/knowledgebase/?showArticle=VoIPRecording)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:51.939921 #10022] DEBUG -- : content [0;33m"[how to record voice chats in zoom, imessage, skype etc using audio hijack](https://rogueamoeba.com/support/knowledgebase/?showArticle=VoIPRecording)"[0m
+D, [2025-06-11T20:54:51.940863 #10022] DEBUG -- : created_at: [0;32m2020-04-18 19:52:25 +0000[0m
+D, [2025-06-11T20:54:51.941042 #10022] DEBUG -- : parsed_uri.path: /support/knowledgebase/
+D, [2025-06-11T20:54:51.941088 #10022] DEBUG -- : slug:knowledgebase
+D, [2025-06-11T20:54:51.941112 #10022] DEBUG -- : filename: 2020-04-18-p1952-knowledgebase.md
+D, [2025-06-11T20:54:57.154598 #10027] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41162073.json
+D, [2025-06-11T20:54:57.154678 #10027] DEBUG -- : 
+D, [2025-06-11T20:54:58.519692 #10027] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41162073[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m850[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/03/21 20:49:49 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/03/21 20:49:49 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[The Books We Can Use to Rebuild Civilization, Selected by Neal Stephenson, Brian Eno, Tim O’Reilly & More](http://www.openculture.com/2020/03/the-books-we-can-use-to-rebuild-civilization.html?utm_campaign=Feed%3A%20OpenCulture%20%28Open%20Culture%29&utm_medium=feed&utm_source=feedburner)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:54:58.519884 #10027] DEBUG -- : content [0;33m"[The Books We Can Use to Rebuild Civilization, Selected by Neal Stephenson, Brian Eno, Tim O’Reilly & More](http://www.openculture.com/2020/03/the-books-we-can-use-to-rebuild-civilization.html?utm_campaign=Feed%3A%20OpenCulture%20%28Open%20Culture%29&utm_medium=feed&utm_source=feedburner)"[0m
+D, [2025-06-11T20:54:58.521112 #10027] DEBUG -- : created_at: [0;32m2020-03-21 20:49:49 +0000[0m
+D, [2025-06-11T20:54:58.521349 #10027] DEBUG -- : parsed_uri.path: /2020/03/the-books-we-can-use-to-rebuild-civilization.html
+D, [2025-06-11T20:54:58.521394 #10027] DEBUG -- : slug:the-books-we-can-use-to-rebuild-civilization
+D, [2025-06-11T20:54:58.521416 #10027] DEBUG -- : filename: 2020-03-21-p2049-the-books-we-can-use-to-rebuild-civilization.md
+D, [2025-06-11T20:55:03.746484 #10032] DEBUG -- : https://checkvist.com/checklists/742486/tasks/41148322.json
+D, [2025-06-11T20:55:03.747773 #10032] DEBUG -- : 
+D, [2025-06-11T20:55:04.661975 #10032] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m41148322[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m851[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/03/20 15:10:16 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/03/20 15:10:16 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"\n\n[The Friday CoverCoronavirus Will Change the World Permanently. Here’s How.](https://www.politico.com/news/magazine/2020/03/19/coronavirus-effect-economy-life-society-analysis-covid-135579?fbclid=IwAR3_Zf2iPR4BNdzKprGusRuGzVqLKRKLj2s6eb7tgY0MTdYiEDF9HyRFGDA)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:55:04.662169 #10032] DEBUG -- : content [0;33m"\n\n[The Friday CoverCoronavirus Will Change the World Permanently. Here’s How.](https://www.politico.com/news/magazine/2020/03/19/coronavirus-effect-economy-life-society-analysis-covid-135579?fbclid=IwAR3_Zf2iPR4BNdzKprGusRuGzVqLKRKLj2s6eb7tgY0MTdYiEDF9HyRFGDA)"[0m
+D, [2025-06-11T20:55:04.663176 #10032] DEBUG -- : created_at: [0;32m2020-03-20 15:10:16 +0000[0m
+/Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:84:in `split': URI must be ascii only "\n\n[The Friday CoverCoronavirus Will Change the World Permanently. Here\u2019s How.](https://www.politico.com/news/magazine/2020/03/19/coronavirus-effect-economy-life-society-analysis-covid-135579?fbclid=IwAR3_Zf2iPR4BNdzKprGusRuGzVqLKRKLj2s6eb7tgY0MTdYiEDF9HyRFGDA" (URI::InvalidURIError)
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/rfc3986_parser.rb:135:in `parse'
+	from /Users/roland/.rubies/ruby-3.3.7/lib/ruby/3.3.0/uri/common.rb:187:in `parse'
+	from ./blogthis.rb:84:in `<main>'
+D, [2025-06-11T20:55:09.874955 #10036] DEBUG -- : https://checkvist.com/checklists/742486/tasks/40238540.json
+D, [2025-06-11T20:55:09.875635 #10036] DEBUG -- : 
+D, [2025-06-11T20:55:10.681594 #10036] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m40238540[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m852[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"created by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2020/02/09 17:06:44 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/02/09 17:06:44 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[a most perfect union: just in time compilers](https://medium.com/basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:55:10.681811 #10036] DEBUG -- : content [0;33m"[a most perfect union: just in time compilers](https://medium.com/basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a)"[0m
+D, [2025-06-11T20:55:10.691469 #10036] DEBUG -- : created_at: [0;32m2020-02-09 17:06:44 +0000[0m
+D, [2025-06-11T20:55:10.691654 #10036] DEBUG -- : parsed_uri.path: /basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a
+D, [2025-06-11T20:55:10.691690 #10036] DEBUG -- : slug:a-most-perfect-union-just-in-time-compilers-2938712a9f6a
+D, [2025-06-11T20:55:10.691708 #10036] DEBUG -- : filename: 2020-02-09-p1706-a-most-perfect-union-just-in-time-compilers-2938712a9f6a.md
+D, [2025-06-11T20:55:15.912200 #10040] DEBUG -- : https://checkvist.com/checklists/742486/tasks/40182285.json
+D, [2025-06-11T20:55:15.912267 #10040] DEBUG -- : 
+D, [2025-06-11T20:55:16.677386 #10040] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m40182285[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m853[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:34:02 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/02/05 15:28:10 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[jenny offill novel weather via nytimes:: how to write fiction when the planet is falling apart](https://www.nytimes.com/2020/02/05/magazine/jenny-offill-weather-book.html) via [Parul Sehgal](https://twitter.com/parul_sehgal/status/1225061538534502400)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:55:16.677584 #10040] DEBUG -- : content [0;33m"[jenny offill novel weather via nytimes:: how to write fiction when the planet is falling apart](https://www.nytimes.com/2020/02/05/magazine/jenny-offill-weather-book.html) via [Parul Sehgal](https://twitter.com/parul_sehgal/status/1225061538534502400)"[0m
+D, [2025-06-11T20:55:16.678578 #10040] DEBUG -- : created_at: [0;32m2020-02-05 15:28:10 +0000[0m
+D, [2025-06-11T20:55:16.678736 #10040] DEBUG -- : parsed_uri.path: /2020/02/05/magazine/jenny-offill-weather-book.html
+D, [2025-06-11T20:55:16.678805 #10040] DEBUG -- : slug:jenny-offill-weather-book
+D, [2025-06-11T20:55:16.678848 #10040] DEBUG -- : filename: 2020-02-05-p1528-jenny-offill-weather-book.md
+D, [2025-06-11T20:55:21.891857 #10044] DEBUG -- : https://checkvist.com/checklists/742486/tasks/39486519.json
+D, [2025-06-11T20:55:21.891916 #10044] DEBUG -- : 
+D, [2025-06-11T20:55:23.170959 #10044] DEBUG -- : json: [
+    [1;37m[0] [0m{
+                    [0;33m"id"[0m[0;37m => [0m[1;34m39486519[0m,
+             [0;33m"parent_id"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"checklist_id"[0m[0;37m => [0m[1;34m742486[0m,
+                [0;33m"status"[0m[0;37m => [0m[1;34m0[0m,
+              [0;33m"position"[0m[0;37m => [0m[1;34m854[0m,
+                 [0;33m"tasks"[0m[0;37m => [0m[],
+           [0;33m"update_line"[0m[0;37m => [0m[0;33m"edited by roland"[0m,
+            [0;33m"updated_at"[0m[0;37m => [0m[0;33m"2025/06/12 03:35:14 +0000"[0m,
+            [0;33m"created_at"[0m[0;37m => [0m[0;33m"2020/01/06 08:45:04 +0000"[0m,
+                   [0;33m"due"[0m[0;37m => [0m[1;31mnil[0m,
+               [0;33m"content"[0m[0;37m => [0m[0;33m"[Howard Rheingold:: Crap Detection Resources](https://docs.google.com/document/d/163G79vq-mFWjIqMb9AzYGbr5Y8YMGcpbSzJRutO8tpw/edit)"[0m,
+             [0;33m"collapsed"[0m[0;37m => [0m[1;31mfalse[0m,
+        [0;33m"comments_count"[0m[0;37m => [0m[1;34m0[0m,
+          [0;33m"assignee_ids"[0m[0;37m => [0m[],
+               [0;33m"details"[0m[0;37m => [0m{},
+              [0;33m"link_ids"[0m[0;37m => [0m[],
+          [0;33m"backlink_ids"[0m[0;37m => [0m[],
+                  [0;33m"tags"[0m[0;37m => [0m{},
+          [0;33m"tags_as_text"[0m[0;37m => [0m[0;33m""[0m
+    }
+]
+D, [2025-06-11T20:55:23.171154 #10044] DEBUG -- : content [0;33m"[Howard Rheingold:: Crap Detection Resources](https://docs.google.com/document/d/163G79vq-mFWjIqMb9AzYGbr5Y8YMGcpbSzJRutO8tpw/edit)"[0m
+D, [2025-06-11T20:55:23.172311 #10044] DEBUG -- : created_at: [0;32m2020-01-06 08:45:04 +0000[0m
+D, [2025-06-11T20:55:23.172519 #10044] DEBUG -- : parsed_uri.path: /document/d/163G79vq-mFWjIqMb9AzYGbr5Y8YMGcpbSzJRutO8tpw/edit
+D, [2025-06-11T20:55:23.172568 #10044] DEBUG -- : slug:edit
+D, [2025-06-11T20:55:23.172595 #10044] DEBUG -- : filename: 2020-01-06-p0845-edit.md
