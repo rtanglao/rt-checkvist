@@ -71,9 +71,9 @@ created_at = json[0]['created_at']
 # filename = t.strftime('%Y-%m-%d-p%H%M')
 logger.debug "content #{content.ai}"
 # Hardcode since 99% of the time I will be in Vancouver, change to another timezone if the list item was added in a different timezone
-ENV['TZ'] = 'America/Vancouver'
-t = Time.parse(created_at)
+
 logger.debug("created_at: #{t.ai}")
+t =  TZInfo::Timezone.get('America/Vancouver').utc_to_local(DateTime.parse(created_at))
 time_discovered_slug = t.strftime('%Y-%m-%d-p%H%M')
 discovered = t.strftime('%b %-d, %Y %H:%M')
 title = content.split('[')[1].split(']')[0]
