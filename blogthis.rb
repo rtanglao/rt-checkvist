@@ -71,11 +71,10 @@ created_at = json[0]['created_at']
 # t = Time.parse(date_str)
 # filename = t.strftime('%Y-%m-%d-p%H%M')
 logger.debug "content #{content.ai}"
-# Hardcode since 99% of the time I will be in Vancouver, change to another timezone if the list item was added in a different timezone
 
-t = TZInfo::Timezone.get('America/Vancouver').utc_to_local(DateTime.parse(created_at))
+t = Time.parse(created_at)
 logger.debug("created_at: #{t.ai}")
-time_discovered_slug = t.strftime('%Y-%m-%d-p%H%M')
+time_discovered_slug = t.getlocal.strftime('%Y-%m-%d-p%H%M')
 discovered = t.strftime('%b %-d, %Y %H:%M')
 title = content.split('[')[1].split(']')[0]
 content_starting_with_link_url = content.delete_prefix("[#{title}](")
