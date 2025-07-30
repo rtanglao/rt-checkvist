@@ -1,0 +1,8 @@
+---
+layout: post
+title: "ME:: I don't have a solution other than 'UN black helicopter hosting' :-) (LOL!) with global trust and safety or miraculously :-) hosting becomes easy for everything and everybody runs  their own individual server for everything: blogs, chat, forums, vlogs, music, etc etc etc ; Kyle Kingsbury:: The Future of Forums is Lies, I Guess"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jul 8, 2025 04:02 [ME:: I don't have a solution other than "UN black helicopter hosting" :-) (LOL!) with global trust and safety or miraculously :-) hosting becomes easy for everything and everybody runs  their own individual server for everything: blogs, chat, forums, vlogs, music, etc etc etc ; Kyle Kingsbury:: The Future of Forums is Lies, I Guess](https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess) <-- **QUOTE**: `Right now, I lean towards thinking forums like woof.group will become untenable under LLM pressure. I’m not sure how long we have left. Perhaps five or ten years? In the mean time, I’m trying to invest in in-person networks as much as possible. Bars, clubs, hosting parties, activities with friends. ... That, at least, feels safe for now.`
+
+## Previously 
+* August 27, 2022: [Free hosting from for profit companies like Heroku, Slack etc doesn't work. Don't depend on it! Only viable long term solution is for the UN Black Helicopters :-) i.e. the government needs to offer hosting](https://rolandtanglao.com/2022/08/27/p1-free-hosting-private-companies-heroku-slack-does-not-work-bring-on-the-un-black-helicopters-aka-free-government-hosting/)
