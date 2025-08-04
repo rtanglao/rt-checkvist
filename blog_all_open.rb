@@ -39,7 +39,9 @@ def get_checkvist_response(url, params, logger)
 end
 
 all_tasks = get_checkvist_response('https://checkvist.com/checklists/742486/tasks.json', '', logger)
+logger.debug "all_tasks: #{all_tasks.ai}"
 all_tasks.each do |t|
+  logger.debug "t: #{t.ai}"
   next if t['status'] == 1
 
   puts "Blog the following?:"
