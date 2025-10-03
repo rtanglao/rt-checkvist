@@ -1,0 +1,6 @@
+---
+layout: post
+title: "ME:: oh brother yet another governance error (this time by Ruby Central) screws my favourite programming language Jan Lehnardt :couchdb:: 'What the f*ck is going on with Ruby?.... For the moment we have to consider all gems compromised:' - narrativ.es"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Sep 19, 2025 15:06 (UTC)[ME:: oh brother yet another governance error (this time by Ruby Central) screws my favourite programming language Jan Lehnardt :couchdb:: "What the f*ck is going on with Ruby?.... For the moment we have to consider all gems compromised:" - narrativ.es](https://narrativ.es/@janl/115230600677063843) <-- See Ellenn Dash aka duckinator's resignation from Ruby Central https://pup-e.com/goodbye-rubygems.pdf
+* [Alex Rock writes](https://mastodon.social/@pierstoval/115231088070271632): `How to make sure *existing* gems aren't compromised somehow? ... That's the main point of failure with supply-chain instability in general (and the node.js ecosystem knows a huge lot about it). ... Not only if rubygems dies they can't update stuff, but will they find a reliable mirror that will allow to *keep* the existing gems downloadable without risk?`
