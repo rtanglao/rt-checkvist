@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: Go Blacksky go!!! I doubt that Blacksky will be under the 'thumb of Bluesky's moderation service' forever (if this is true, I don't know enough about ATProto to know for sure who is under the thumb of who) ; Bruno Dias,:: Delusions of a Protocol ¦ Azhdarchid"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Oct 6, 2025 14:42 (UTC)[ME:: Go Blacksky go!!! I doubt that Blacksky will be under the "thumb of Bluesky's moderation service" forever (if this is true, I don't know enough about ATProto to know for sure who is under the thumb of who) ; Bruno Dias,:: Delusions of a Protocol ¦ Azhdarchid](https://azhdarchid.com/delusions-of-a-protocol/) <-- **QUOTE**: `To my knowledge there's only one alternate stack that runs atproto as a complete service, Blacksky. But this isn't a turnkey solution that you can stand up as your own independent alternative; Blacksky at present barely has documentation. And even Blacksky users are still more or less under the thumb of Bluesky's moderation service, if they intend to reach 99% of the network as it exists today.`
