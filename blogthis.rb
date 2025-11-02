@@ -97,6 +97,6 @@ filestr = "---\n"
 filestr += "layout: post\n"
 filestr += "title: \"#{title}\"\n"
 filestr += "---\n"
-filestr += "[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): #{discovered} (UTC)"
+filestr += "[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): #{discovered} (UTC) "
 filestr += "#{content.gsub('|', '¦')}\n"
 File.write(filename, filestr)
