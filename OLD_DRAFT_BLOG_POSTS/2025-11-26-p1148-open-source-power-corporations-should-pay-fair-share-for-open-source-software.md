@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: Yes please, corporations should pay their fair share for open source software, 100% agree with Erlend; Erlend Sogge Heggen:: Open Source Power"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 26, 2025 19:48 (UTC) [ME:: Yes please, corporations should pay their fair share for open source software, 100% agree with Erlend; Erlend Sogge Heggen:: Open Source Power](https://blog.muni.town/open-source-power/) <- **QUOTE**: `The top 10 biggest programming languages in the world are collectively responsible for trillions of dollars in generated value. How much of that value is cycling back into the maintenance of these languages and their ecosystems? 0.01% maybe, if even that? ... Is it really that crazy to imagine a community-governed and institution-owned package management stack that's licensed such that corporations have to pay their fair share, to the tune of some tens of millions of dollar per year in revenue? Keep in mind that non-profits are welcome to make lots of revenue, it's the excess profits that's a probem.`
