@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: tl;dr-ing: LLMs are good at: writing SQL. get datacleaning 95% right and data enrichment running stuff in a loop against 1000s of records. Amazing it's too bad nobody does data journalism like this in the mainstream media in Canada :-) Lots of people doing non mainstream stuff like this in Canada I would guess ; CL Kao, Dori Wilson:: Data Renegades ¦ Ep. #2, Data Journalism Unleashed with Simon Willison ¦ Heavybit"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Nov 29, 2025 07:25 (UTC) [ME:: tl;dr-ing: LLMs are good at: writing SQL. get datacleaning 95% right and data enrichment running stuff in a loop against 1000s of records. Amazing it's too bad nobody does data journalism like this in the mainstream media in Canada :-) Lots of people doing non mainstream stuff like this in Canada I would guess ; CL Kao, Dori Wilson:: Data Renegades ¦ Ep. #2, Data Journalism Unleashed with Simon Willison ¦ Heavybit](https://www.heavybit.com/library/podcasts/data-renegades/ep-2-data-journalism-unleashed-with-simon-willison)
