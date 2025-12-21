@@ -1,0 +1,15 @@
+---
+layout: post
+title: "ME:: automation makes the bits left over humans more challenging; See also Lisanne Bainbridge's pape: Ironies of Automation from 1983; Tae Selene Sandoval Murgan:: thoughts/on-using-language-models-for-programming.md "
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Dec 16, 2025 03:20 (UTC) [ME:: automation makes the bits left over humans more challenging; See also Lisanne Bainbridge's pape: Ironies of Automation from 1983; Tae Selene Sandoval Murgan:: thoughts/on-using-language-models-for-programming.md ](https://codeberg.org/tssm/thoughts/src/branch/canon/on-using-language-models-for-programming.md) 
+
+## QUOTE
+
+* Read the whole thing: [Tae Selene Sandoval Murgan:: thoughts/on-using-language-models-for-programming.md at canon - tssm/thoughts - Codeberg.org](https://codeberg.org/tssm/thoughts/src/branch/canon/on-using-language-models-for-programming.md)  <-- See also [Lisanne Bainbridge's classic 1983 paper in Automatic: Ironies of Automation](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
+
+>I wrote a version of the above as a Mastodon thread. And then I read Ironies of automation by Lisanne Bainbridge, a paper that, quoting its abstract, "discusses the ways in which automation of industrial processes may expand rather than eliminate problems with the human operator". I got several ideas from it, but the most important is that regardless of how automation is performed, whatever levels of "intelligence" an automated system has, it's rarely designed to collaborate with the human that formerly performed the work. On the contrary it's designed to replace them. Which is an irony (as defined in the paper) because (among others) "by taking away the easy parts of his task, automation can make the difficult parts of the human operator's task more difficult." Even more, automation seldom "consider the integration of man and computer, nor how to maintain the effectiveness of the human operator by supporting his skills and motivation. There will always be a substantial human involvement with automated systems, because criteria other than efficiency are involved".
+
+>We know language models have been touted as tools that enable computers to replace humans intellectual labor. And here we have a 40 years old paper saying actually that has never worked. I don't believe language models or any other form of artificial "intelligence" is here to stay, but if that's the case I hope it stays as a form of human-computer collaboration. As my skills and motivation lie in writing code, I'll keep stubbornly rejection any trend that clashes with them. And as I keep feeling pressured to use these things, I'll try to come with more silly ways which I feel that at least they don't erase my motivation.
+
+> So will I eagerly apply what I just described? I surely will when copy and pasting my code on a chatbot window is cheaper in motivation terms than filling in the gaps myself. The way to smooth the process is to run a local model, or pay for a service. For now I don't want to do any, so who knows. At least I feel a little less dumber now.`
