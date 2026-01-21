@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: over the top but i'd buy one if it wasn't plastic. No a micro-plastic paranoid person but it can't hurt to minimize it! all metal/glass/ceramic is affordable and just as good might as well go for the non plastic! ; MHW-3BOMBER Rain Pour-Over Coffee Splitter"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 17, 2026 16:31 (UTC) [ME:: over the top but i'd buy one if it wasn't plastic. No a micro-plastic paranoid person but it can't hurt to minimize it! all metal/glass/ceramic is affordable and just as good might as well go for the non plastic! ; MHW-3BOMBER Rain Pour-Over Coffee Splitter](https://mhw3bomber.com/products/mhw-3bomber-rain-pour-over-coffee-splitter) <-- **QUOTE**: `Transform your coffee brewing ritual with the Rain Pour-Over Coffee Splitter. Engineered for coffee enthusiasts who seek ultimate control over every brew, this innovative tool takes the guesswork out of pouring, ensuring consistent extraction and delivering a balanced, flavorful cup every time`
