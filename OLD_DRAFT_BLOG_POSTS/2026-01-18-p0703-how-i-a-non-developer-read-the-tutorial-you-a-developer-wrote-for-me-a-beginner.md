@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: LOL'Snarfus stagnator ' and 'Klingon troglodyte emulater' so true about developer docs even to other developers ; Annie Mueller:: How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner - annie's blog"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 18, 2026 15:03 (UTC) [ME:: LOL'Snarfus stagnator ' and 'Klingon troglodyte emulater' so true about developer docs even to other developers ; Annie Mueller:: How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner - annie's blog](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner) <- **QUOTE**: `I almost gave up but then I realized: If I connect the backside Snarfus stagnator to the backside shamrock Klingon troglodyte emulater, it’s good! Everything beep-boops and ding-dongs and I get the Actual Topic of the Tutorial, which lets me do the Very Simple Thing the way I want after all! Pretty cool4.`

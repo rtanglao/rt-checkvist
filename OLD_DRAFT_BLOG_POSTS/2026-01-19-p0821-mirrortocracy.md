@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: white, the 'right' asians etc nothing has changed in the tech 'mirrortocracy'  since 2014 ; Carlos Bueno:: 2014::Inside the Mirrortocracy"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 19, 2026 16:21 (UTC) [ME:: white, the 'right' asians etc nothing has changed in the tech 'mirrortocracy'  since 2014 ; Carlos Bueno:: 2014::Inside the Mirrortocracy](https://carlos.bueno.org/2014/06/mirrortocracy.html) <- **QUOTE**: `So the second step is on you. In­stead of de­mand­ing that oth­ers re­flect your views, re­flect on your­self. Try to re­memb­er the last time some­one suc­cessful­ly chan­ged your mind. Try, just for a mo­ment, to sup­pose that it's pro­bab­ly un­natur­al for an in­dust­ry to be so heavi­ly dominated by white/asian middle-class males under 30 who keep tell­ing each other to only hire their friends. Hav­ing sup­posed that, think about what a just fu­ture should look like, and how to get there.`
