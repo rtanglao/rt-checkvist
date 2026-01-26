@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: MyTerms aka IEE P7012 coming in January 2026; the web on my terms and your terms and eveybody else's terms not the big companies' terms ; Doc Searls:: Securing the right to be let alone "
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Jan 24, 2026 22:33 (UTC) [ME:: MyTerms aka IEE P7012 coming in January 2026; the web on my terms and your terms and eveybody else's terms not the big companies' terms ; Doc Searls:: Securing the right to be let alone ](https://doc.searls.com/2026/01/11/securing-the-right-to-be-let-alone/) <-- **QUOTE**: `MyTerms makes “the right to be let alone” a contract and not just a promise. It obsolesces consent by cookie notice and replaces it with a choice of privacy agreements that you proffer as the first party, and the website or service agrees to as the second party. This sets the stage for both parties to trust each other and develop mutually respectful relationships if they wish. Optionality is maximized, from “let alone” at one end to “trusting relationship” at the other.`
