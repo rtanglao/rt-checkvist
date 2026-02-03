@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: tl;dr-ing $30 USD metal lever for Hario Switch ; Flip Switch (Metal Lever Upgrade for Hario Switch)  – Foundry Coffeeworks"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 2, 2026 18:16 (UTC) [ME:: tl;dr-ing $30 USD metal lever for Hario Switch ; Flip Switch (Metal Lever Upgrade for Hario Switch)  – Foundry Coffeeworks](https://foundrycoffeeworks.com/products/flip-switch-metal-lever-upgrade-for-hario-switch) <-- If I ever get a Hario Switch, I'd get this.  cheaper than the [Good Switch](https://goodswitch.net/products/goodswitch-complete-kit-berry-x-azure) which looks like a lovely product for $USD119 <-- **QUOTE**: `Upgrade your Hario Switch experience with the Flip Switch, a premium replacement lever designed for the Hario Switch brewer. Meticulously crafted from food-grade 304 stainless steel, the Flip Switch offers enhanced durability, smooth operation, and a polished finish that adds a touch of refined elegance to your setup.`
