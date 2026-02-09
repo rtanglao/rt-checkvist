@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: In Vancouver (and probably all of BC), 33% whipped containers go in the mixed containers bin and are therefore not eligible to get the 10 ceent deposit back ; Return-It:: Milk Container Recycling in British Columbia Frequently Asked Question ¦ Return-It"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 8, 2026 18:37 (UTC) [ME:: In Vancouver (and probably all of BC), 33% whipped containers go in the mixed containers bin and are therefore not eligible to get the 10 ceent deposit back ; Return-It:: Milk Container Recycling in British Columbia Frequently Asked Question ¦ Return-It](https://www.return-it.ca/beverage/faqs/general-milk/) <-- **QUOTE**: "Containers that are NOT included in the program are those not meant primarily as “ready-to-drink”, such as infant formula, meal replacement or dietary supplements, coffee cream and other coffee additives, **whipping cream**, buttermilk, drinkable yogurt and kefir."
