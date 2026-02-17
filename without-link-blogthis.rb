@@ -99,6 +99,6 @@ filestr = "---\n"
 filestr += "layout: post\n"
 filestr += "title: \"#{title}\"\n"
 filestr += "---\n"
-filestr += "* [Draft](https://checkvist.com/checklists/936619) [created]:(https://rolandtanglao.com/2025/11/14/p0908-without-link-blogthis-linkless_blog_all_open/): #{created} (UTC).\n"
+filestr += "* [Draft](https://checkvist.com/checklists/936619) [created](https://rolandtanglao.com/2025/11/14/p0908-without-link-blogthis-linkless_blog_all_open/): #{created} (UTC).\n"
 filestr += "#{rest_of_content.gsub('|', '¦')}\n"
 File.write(filename, filestr)
