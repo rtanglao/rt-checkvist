@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Updated without-link-blogthis.rb to point to my blog post about it :-)"
+---
+* [Created](https://rolandtanglao.com/2025/11/14/p0908-without-link-blogthis-linkless_blog_all_open/): Feb 17, 2026 00:28 (UTC)
+* [without-link-blogthis.rb](https://github.com/rtanglao/rt-checkvist/blob/main/without-link-blogthis.rb)
+## Copy paste of without-link-blogthis.rb code in case github ever goes away :-)
+```ruby
 #!/usr/bin/env ruby
 require 'rubygems'
 require 'bundler/setup'
@@ -12,15 +20,12 @@ require 'uri'
 require 'tzinfo'
 require 'pragmatic_tokenizer'
 require 'babosa'
-
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
-
 if ARGV.empty?
   puts "usage: #{$PROGRAM_NAME} checkvist_url_to_blog_using_lc_or_tc_checkvist_command"
   exit
 end
-
 def get_checkvist_response(url, params, logger)
   logger.debug url
   logger.debug params
@@ -45,11 +50,10 @@ def get_checkvist_response(url, params, logger)
   end
   x
 end
-
 URL = ARGV[0].freeze
 # from https://checkvist.com/auth/api
 # e.g. https://checkvist.com/checklists/742486/tasks/67162153
-# get /checklists/checklist_id/tasks/task_id.(json|xml)
+# get /checklists/checklist_id/tasks/task_id.(json¦xml)
 # GET https://checkvist.com/checklists/742486/tasks/67162153.json
 task_api_url = "#{URL}.json"
 json = get_checkvist_response(task_api_url, '', logger)
@@ -73,7 +77,6 @@ created_at = json[0]['created_at']
 # t = Time.parse(date_str)
 # filename = t.strftime('%Y-%m-%d-p%H%M')
 logger.debug "content #{content.ai}"
-
 t = Time.parse(created_at)
 logger.debug("created_at: #{t.ai}")
 time_created_slug = t.getlocal.strftime('%Y-%m-%d-p%H%M')
@@ -99,6 +102,7 @@ filestr = "---\n"
 filestr += "layout: post\n"
 filestr += "title: \"#{title}\"\n"
 filestr += "---\n"
-filestr += "* [Draft](https://checkvist.com/checklists/936619) [created]:(https://rolandtanglao.com/2025/11/14/p0908-without-link-blogthis-linkless_blog_all_open/): #{created} (UTC).\n"
-filestr += "#{rest_of_content.gsub('|', '¦')}\n"
+filestr += "* [Created](https://rolandtanglao.com/2025/11/14/p0908-without-link-blogthis-linkless_blog_all_open/): #{created} (UTC)\n"
+filestr += "#{rest_of_content.gsub('¦', '¦')}\n"
 File.write(filename, filestr)
+```
