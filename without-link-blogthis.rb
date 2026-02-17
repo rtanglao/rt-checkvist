@@ -76,7 +76,8 @@ logger.debug "content #{content.ai}"
 
 t = Time.parse(created_at)
 logger.debug("created_at: #{t.ai}")
-time_discovered_slug = t.getlocal.strftime('%Y-%m-%d-p%H%M')
+time_created_slug = t.getlocal.strftime('%Y-%m-%d-p%H%M')
+created = t.strftime('%b %-d, %Y %H:%M')
 content_array = content.split("\r\n\r\n")
 title = content_array[0]
 rest_of_content = content_array[1..].join("\n")
@@ -89,7 +90,7 @@ tokens = tokenizer.tokenize(title).uniq
 slug = tokens.join ' '
 slug = slug.to_slug.normalize.to_s
 logger.debug "slug without timestamp: #{slug}"
-slug = "#{time_discovered_slug}-#{slug}"
+slug = "#{time_created_slug}-#{slug}"
 slug.downcase!
 logger.debug("slug:#{slug}")
 filename = "#{slug}.md"
@@ -98,5 +99,6 @@ filestr = "---\n"
 filestr += "layout: post\n"
 filestr += "title: \"#{title}\"\n"
 filestr += "---\n"
+filestr += "* [Created](https://rolandtanglao.com/2025/11/14/p0908-without-link-blogthis-linkless_blog_all_open/): #{created} (UTC)\n"
 filestr += "#{rest_of_content.gsub('|', '¦')}\n"
 File.write(filename, filestr)

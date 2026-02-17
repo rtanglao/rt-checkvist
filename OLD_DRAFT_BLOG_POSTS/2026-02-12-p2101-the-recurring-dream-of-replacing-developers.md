@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: Probably Wrong Prediction:: We'll still need software developers until we get a breakthrough which will happen before 2050 or before i die whichever comes first. Today's tools are just not up to the task of replacing software developers. Wastefully (perhaps with local models not destroying the environment) augmenting humans, yes :-) Replacing humans no :-)  Stephan Schwab:: Why We've Tried to Replace Developers Every Decade Since 1969"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 13, 2026 05:01 (UTC) [ME:: Probably Wrong Prediction:: We'll still need software developers until we get a breakthrough which will happen before 2050 or before i die whichever comes first. Today's tools are just not up to the task of replacing software developers. Wastefully (perhaps with local models not destroying the environment) augmenting humans, yes :-) Replacing humans no :-)  Stephan Schwab:: Why We've Tried to Replace Developers Every Decade Since 1969](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
