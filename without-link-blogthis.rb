@@ -78,7 +78,7 @@ t = Time.parse(created_at)
 logger.debug("created_at: #{t.ai}")
 time_created_slug = t.getlocal.strftime('%Y-%m-%d-p%H%M')
 created = t.strftime('%b %-d, %Y %H:%M')
-content_array = content.split("\r\n\r\n")
+content_array = content.split("\n\n")
 title = content_array[0]
 rest_of_content = content_array[1..].join("\n")
 logger.debug "title: #{title.ai}"
