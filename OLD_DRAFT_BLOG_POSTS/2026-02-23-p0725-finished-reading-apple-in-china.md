@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: I guess I'll have to read a non fiction book :-) to read about how Apple is terrible in China ; Miloš Miljković:: 📚 Finished reading: 'Apple in China' by Patrick McGee  // Infinite Regress"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 23, 2026 15:25 (UTC) [ME:: I guess I'll have to read a non fiction book :-) to read about how Apple is terrible in China ; Miloš Miljković:: 📚 Finished reading: "Apple in China" by Patrick McGee  // Infinite Regress](https://blog.miljko.org/2026/01/07/finished-reading-apple-in-china.html) <-- **QUOTE**: `The second is why they did it: to increase shareholder value. This is as far away from the 1984 athletes and the 1997 crazy ones as you can get. There was no reason why Apple products could not have been made around the world — per the book, Samsung has only a token presence in China, and manufactures its chips in Korea in the US. But at what cost? And with what margins? Profits seduced the company right into a quicksand trap. McGee and his interviewees have a difficult time imagining it escape.`
