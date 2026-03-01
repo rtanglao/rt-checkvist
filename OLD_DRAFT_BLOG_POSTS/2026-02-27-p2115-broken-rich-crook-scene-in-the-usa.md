@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: УSA: Broken Rich Crook Scene :-) aka 'No Rich Crook Left Behind' LOL ; Adam Serwer:: How America Chose Not to Hold the Powerful to Account - The Atlantic"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Feb 28, 2026 05:15 (UTC) [ME:: УSA: Broken Rich Crook Scene :-) aka 'No Rich Crook Left Behind' LOL ; Adam Serwer:: How America Chose Not to Hold the Powerful to Account - The Atlantic](https://www.theatlantic.com/ideas/2026/02/elite-accountability-powerful-impunity/686134/?gift=Je3D9AQS-C17lUTOnl2W8ImCAJzfV2R8UlH_eHGQVjM) <-- **QUOTE**: `Instead of a New Deal, we have a Great Society for white-collar crime, a New Frontier of executive lawbreaking, a No Rich Crook Left Behind. Most of us probably don’t even realize it. Nevertheless, this has been the priority for the wealthy and powerful, who have managed to convince a critical mass of Americans that they will be able to enjoy the same privileges. They won’t.`
