@@ -1,0 +1,5 @@
+---
+layout: post
+title: "How to unfollow everyone in LinkedIn by running a JS script in your browser console ; Ton Zijlstra:: 2021:: Emptied My LinkedIn Feed"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Mar 6, 2026 16:06 (UTC) [How to unfollow everyone in LinkedIn by running a JS script in your browser console ; Ton Zijlstra:: 2021:: Emptied My LinkedIn Feed](https://www.zylstra.org/blog/2021/09/emptied-my-linkedin-feed/) <-- [German Rodrigo's 2020 blog post about the Javascript script and a Chrome (and I guess by now Firefox) extension](https://quadlayers.com/unfollow-connections-in-bulk-linkedin/) <-- **QUOTE**: `To get to an empty timeline I had to unfollow everyone I’m connected to. Which is not a simple thing to do, as LinkedIn provides no easy option to unfollow large amounts of people, and requires you to unfollow everyone one by one. Of course there are work arounds and that is what I used, with a snippet of code in my browser console.`
