@@ -1,0 +1,6 @@
+---
+layout: post
+title: "ME:: Crag Mod, please share the TaxBot2000 code and the prompts that allowed you to to build TaxBot2000 in 5 days :-) ; Craig Mod:: ' I’ve named my glorious contraption TaxBot2000. It is astounding. Let me repeat: I built this in five days' from Software Bonkers"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Mar 16, 2026 19:59 (UTC) [ME:: Crag Mod, please share the TaxBot2000 code and the prompts that allowed you to to build TaxBot2000 in 5 days :-) ; Craig Mod:: ' I’ve named my glorious contraption TaxBot2000. It is astounding. Let me repeat: I built this in five days' from Software Bonkers](https://craigmod.com/essays/software_bonkers/) <-- **QUOTE**: `Most miraculously: For the first time in my life, I have a dashboard that gives me a true, holistic view, of everything financial happening in my life and business. I’ve named my glorious contraption TaxBot2000. It is astounding. Let me repeat: I built this in five days.`
+* I don't expect anybody like Craig Mod to narrate their work with prompts and roadblocks and interim code along the way but it sure would be nice :-) ! And wouldn't that be in the spirit of open source?!? I am trying to narrate my work always! And it needs to be said that I fail often at narrating my work :-) !
