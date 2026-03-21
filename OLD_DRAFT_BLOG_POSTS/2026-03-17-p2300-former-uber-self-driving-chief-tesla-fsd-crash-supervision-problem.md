@@ -1,0 +1,11 @@
+---
+layout: post
+title: "ME:: January 2026: It's 2026: Self Driving cars are still not proven safe and we don't need them to reduce cyclist or pedestrian deaths ; Fred Lambert:: March 17, 2026:: Former Uber self-driving chief crashes his Tesla on FSD, exposes supervision problem ¦ Electrek"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Mar 18, 2026 06:00 (UTC) [ME:: January 2026: It's 2026: Self Driving cars are still not proven safe and we don't need them to reduce cyclist or pedestrian deaths ; Fred Lambert:: Bloomberg Former Uber self-driving chief crashes his Tesla on FSD, exposes supervision problem ¦ Electrek](https://electrek.co/2026/03/17/former-uber-self-driving-chief-tesla-fsd-crash-supervision-problem/) 
+
+### Previously:
+* January 6, 2026 [It's 2026: Self Driving cars are still not proven safe and we don't need them to reduce cyclist or pedestrian deaths ; David Zipper:: Are Autonomous Vehicles Safer Than Human Drivers? We Don't Know Yet - Bloomberg](https://rolandtanglao.com/2026/01/06/p1950-are-autonomous-vehicles-safer-than-human-drivers-we-don-t-know-yet/)
+* December 6, 2025:  [ME:: All the benefits sound plausible but I still think self driving cars won't work in 2034 and we'd be better improving 'low tech' non self driving trains and buses ; The Economist:: Self-driving cars will transform urban economies](https://rolandtanglao.com/2025/12/06/p1829-if-self-driving-cars-worked-there-would-be-benefits-selfdriving-wont-work-before-2034-lets-deploy-more-trains-buses-first/)
+* May 28, 2025: [PROBABLY WRONG PREDICTION:: ME:: By Jan 1, 2034 Tesla still won't have full self driving cars (unless they add LiDAR and/or humans in the loop :-) !) ; Ben Thompson Oct 15, 2024:: Elon Dreams and Bitter Lessons – Stratechery](https://rolandtanglao.com/2025/05/28/p1444-elon-fsd-2034-still-wont-work-for-tesla-without-lidar-bitter-lessons/)
+* June 28, 2025: [ME:: WRONG Peter :-) Driving is still an occupation in 2025 and self driving cars don't work in 2025 even though they were predicted in 2015. Maybe in 2035?!? Not holding my breath :-) #Ymmv ; Peter Reinhard:: February 3, 2015:: Replacing Middle Management with APIs](https://rolandtanglao.com/2025/06/28/p1016-no-selfdriving-cars-2025-predicted-2015-replacing-middle-management-with-apis/)
