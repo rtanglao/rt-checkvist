@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME::tl;dr-ing: Be in community in real life as well as online ;  Alan Elrod, Greg Sargent:: America Is Deeply Unwell, and It’s Time to Say So ¦ The New Republic"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 13, 2026 14:37 (UTC) [ME::tl;dr-ing: Be in community in real life as well as online ;  Alan Elrod, Greg Sargent:: America Is Deeply Unwell, and It’s Time to Say So ¦ The New Republic](https://newrepublic.com/article/208976/transcript-trump-america-deeply-unwell-it-time-say) <-- **QUOTE**: `But if you don’t get out there and know your neighbors, if you don’t get out there and try to fix the social capital problem we have—a book club, start a movie night club, do something like that—if you don’t do those things and engage in those kinds of face-to-face interactions that really revive civic life around you, where you are, then I don’t think that this is a problem that we’re going to get out of anytime soon. That’s my hopeful message, actually, because I am hopeful about it. But winning an election is actually the short-term fix. Doing this stuff is the long-term.`

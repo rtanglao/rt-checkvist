@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Probably Wrong prediction for The Pitt season 2 episode 15. Robby, Dana, Abbot and Al-Hashimi are all incapacitated by burnout and PTSD so Santos calls in her grandmother who was a field surgeon for Marcos's army against the NPA and Princess calls in her grandmother who was the NPA's top doctor :-) They both live in Pittsburgh unbeknownst to each other. They last met on the battle field in Mindanao in the late 70s during a truce"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 15, 2026 01:44 (UTC) [Probably Wrong prediction for The Pitt season 2 episode 15. Robby, Dana, Abbot and Al-Hashimi are all incapacitated by burnout and PTSD so Santos calls in her grandmother who was a field surgeon for Marcos's army against the NPA and Princess calls in her grandmother who was the NPA's top doctor :-) They both live in Pittsburgh unbeknownst to each other. They last met on the battle field in Mindanao in the late 70s during a truce](https://devdilettante.com/@roland/116406167312819471)
