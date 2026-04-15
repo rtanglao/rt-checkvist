@@ -1,0 +1,6 @@
+---
+layout: post
+title: "ME:: Haunt, a static site generator in Guile, looks easy to use and therefore great! David Thompson:: Haunt is a simple, functional, hackable static site generator that gives authors the ability to treat websites as Scheme programs"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 11, 2026 15:10 (UTC) [ME:: Haunt, a static site generator in Guile, looks easy to use and therefore great! David Thompson:: Haunt is a simple, functional, hackable static site generator that gives authors the ability to treat websites as Scheme programs](https://dthompson.us/projects/haunt.html)
+* found via [Christine Lemmer-Webber's toot](https://social.coop/@cwebber/116386646850827566): **FULL TOOT**: `Everyone I know who uses Haunt to build their websites loves it, and there's good reason for that: it's the static site generator foundation that best understands that a static site generator is a computer program, a function whose input is a pile of blogpost files and whose output is a complete website. ... But at the end of the day it's just a computer program, and you should be able to hack that program to make it yours. ... Use Haunt! `
