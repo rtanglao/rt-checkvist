@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: tl-dr quoting: 'The demographics are unrelenting. 73% of Americans live in car-centric suburbs and exurbs. When millions of them can no longer drive, everyone has a problem. ' ; LLoyd Alter:: Many older drivers don't see the road ahead"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): May 2, 2026 15:40 (UTC) [ME:: tl-dr quoting: 'The demographics are unrelenting. 73% of Americans live in car-centric suburbs and exurbs. When millions of them can no longer drive, everyone has a problem. ' ; LLoyd Alter:: Many older drivers don't see the road ahead](https://archive.is/Ud00n) <-- **QUOTE**: `“We have 75 million North American baby boomers, almost all of whom will not be able to drive at some point. We need accessible housing, and walkable communities with good sidewalks, corner stores, medical facilities and coffee shops within a reasonable distance. We need good, safe, accessible transit for when we have to go further. We all must prepare for a non-driving future. And as the AARP study shows, almost nobody is.”`

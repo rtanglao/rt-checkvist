@@ -1,0 +1,5 @@
+---
+layout: post
+title: "ME:: omg the cargo culting of all things Karpathy continues :-) oh well some of these Claude.md 'spells' :-) are worthwhile i grudgingly admit :-) Stephen Downes:: forrestchang/andrej-karpathy-skills"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): May 1, 2026 14:24 (UTC) [ME:: omg the cargo culting of all things karpathy continues :-) oh well some of these Claude.md 'spells' :-) are worthwhile i grudgingly admit :-) Stephen Downes:: forrestchang/andrej-karpathy-skills](https://www.downes.ca/post/79198) <-- **QUOTE**: `I don't use this exact CLAUDE.ms file telling the AI how I want it to approach programming tasks, but my own version is very similar. "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls." The key instruction: "Don't assume. Don't hide confusion. Surface tradeoffs." Now that I think about it, it's probably pretty good advice for life in general. Here's a version you can paste into your project.`

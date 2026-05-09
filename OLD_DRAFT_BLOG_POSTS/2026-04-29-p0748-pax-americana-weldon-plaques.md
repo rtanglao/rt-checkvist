@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Artists imagine a future we don't want ! Bravo Dara Vandor ; Dara Vandor:: Pax Americana: D.B. Weldon Library (2026)"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Apr 29, 2026 14:48 (UTC) [Artists imagine a future we don't want ! Bravo Dara Vandor ; Dara Vandor:: Pax Americana: D.B. Weldon Library (2026)](https://www.daravandor.com/pax-americana-weldon-plaques) <-- **QUOTE**: `"Released in 2038, Project Homecoming, the flag-waving rock musical, tells the tale of Tommy Kazansky (Ryan Reynolds), America’s favorite ICE agent, and his lovable sidekick, a K-9 patrol dog named Payback. Armed with charisma and a keytar, the two crisscross the country reminding illegals that everyone belongs somewhere—just not here.  ... Standing in for ICE headquarters, this building served as a backdrop for two memorable musical numbers in the film. The first, “Paw Patrol (Three Barks Means We Found You),” was a duet between Reynolds and Payback; the second was a solo by Sabrina Carpenter entitled “Nice Try, But I Don’t Speak Mexican.”` <-- Read the whole thing [Dara Vandor:: Pax Americana: D.B. Weldon Library (2026)](https://www.daravandor.com/pax-americana-weldon-plaques) 
+​`
