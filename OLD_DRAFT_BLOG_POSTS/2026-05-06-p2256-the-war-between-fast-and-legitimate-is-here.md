@@ -1,0 +1,5 @@
+---
+layout: post
+title: "joan westenberg:: The war between fast and legitimate is here"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): May 7, 2026 05:56 (UTC) [joan westenberg:: The war between fast and legitimate is here](https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/) <-- **QUOTE**: `Pick a side and commit. Find a functional substitute for the legitimacy you lack, and find it before the next scandal makes your shortcomings impossible to ignore; or find a way to remain relevant despite your pace, and stop confusing the pomp of authority with its substance. ...The hybrids will struggle. The pretenders - the institutions that perform speed without being fast or perform legitimacy without being legitimate - will be eaten first. ... I'm not certain anyone "wins" this in any way the word "win" is usually applied. But in a war between institutions, the folks on the losing side are usually the last to figure out they're at war in the first place.`
