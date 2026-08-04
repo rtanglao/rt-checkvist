@@ -1,0 +1,7 @@
+---
+layout: post
+title: "ME:: Surprisingly I loved a non fiction book! First one I've finished in at least 6 months! Maybe because I love the idea of software that is provable and always have since the 1980s and my painful forays into Lisp and Prolog at Waterloo ; Kevin Hartnett:: The Proof in the Code - Quanta Books"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Aug 3, 2026 16:04 (UTC) [ME:: Surprisingly I loved a non fiction book! First one I've finished in at least 6 months! Maybe because I love the idea of software that is provable and always have since the 1980s and my painful forays into Lisp and Prolog at Waterloo ; Kevin Hartnett:: The Proof in the Code - Quanta Books](https://www.quantabooks.org/books/the-proof-in-the-code/)
+* Thank you Dennis for writing Lisp back on the Xerox Lisp workstation all those years ago. I just learned how to use the Lisp debugger to run the code backwards and forwards. Lisp debugging was in 1987 sooooooo easy! Dennis wrote the Lisp stuff; I ran the Lisp debugger if I remember correctly haha! I remember debugging as being almost fun! Probably because it was integrated and not bolted on afterwards. Unlike gdb/adb/xdb and the other terrible debuggers I have used for C and C++ over the years. The gdb family of debuggers is not much better than good logging or printing in my probably wrong opinion :-)
+* Prolog on the other hand broke my brain :-) ! Never really understood or learned it but I did pass the course!
