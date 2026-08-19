@@ -1,0 +1,13 @@
+---
+layout: post
+title: "ME:: if there wasn't tariffs I'd probably go for this and install the AC (Midea Duo or Dreo 740S Inverter Portable AC or Senville Mini split if I had some money :-)  on our ground floor swing outward casement window! Apparently $USD300 plus shipping plus tariffs so much for free trade. Instead I'll hire a local handyman I guess; Custom Portable AC Window Kit for Casement Windows — Martinson Manufacturing"
+---
+[Discovered](http://rolandtanglao.com/2020/07/29/p1-blogthis-checkvist-list-links-to-blog/): Aug 18, 2026 15:13 (UTC) [ME:: if there wasn't tariffs I'd probably go for this and install the AC (Midea Duo or Dreo 740S Inverter Portable AC or Senville Mini split if I had some money :-)  on our ground floor swing outward casement window! Apparently $USD300 plus shipping plus tariffs so much for free trade. Instead I'll hire a local handyman I guess; Custom Portable AC Window Kit for Casement Windows — Martinson Manufacturing](https://martinsonmanufacturing.com/products/portable-ac-casement-window-vent) <-- **QUOTE**: `Install a portable AC unit without the frustration. Our crystal clear portable AC window kits are specifically designed to vent portable air conditioners out casement windows. Casement window vent kits are professionally CNC machined out of very durable 1/4” acrylic (plexiglass) and are custom cut to fit your crank window perfectly. Each order comes with a quick attach vent system that locks into the panel to create a better window seal and make hose hook up a breeze. Our plexiglass window inserts come with a non-permanent installation kit and install in 5-10 min. `
+
+* Martison Manufacturing's YT video about this: [Midea Duo Casement Window Kit - How to vent a Portable AC](https://youtu.be/8tQxqTLG5IU)
+* [Dreo Portable Dual Hose Air Conditioner 740s](https://www.dreo.com/products/portable-air-conditioner-740s)
+* [Senville Single Zone Mini Split](https://senville.ca/mini-split/single-zone/): **QUOTE**: `Our single zone mini split systems offer heating and cooling up to -30 Celsius on specific models. Give any room a powerful air conditioner and heat pump easily, with a simple to install single-zone mini split air conditioner and heat pump.`
+
+## Previously
+
+* August 17, 2026: [What I really want is a Midea Portasplit air conditioner and Mobile Heat Pump that is unavailable in Canada which means this Midea portable air conditioner plus a custom french door kit (i.e. somebody handy unlike me to do this :-) ) seems to be the best we could do with our french door 3rd floor master bedroom. ; Midea 12,000 BTU / 10,000 BTU SACC DUO Smart Inverter ¦ Midea CA](https://rolandtanglao.com/2026/08/17/p1008-midea-portasplit-only-available-in-europe-midea-map12s1tbl/)
