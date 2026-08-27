@@ -86,7 +86,8 @@ logger.debug "rest of content: #{rest_of_content.ai}"
 tokenizer = PragmaticTokenizer::Tokenizer.new(
   language: :en, remove_stop_words: true, punctuation: :none, clean: true, classic_filter: true, minimum_length: 4
 )
-tokens = tokenizer.tokenize(title).uniq
+first_10_words = title.split(/\s+/).take(10).join(' ')
+tokens = tokenizer.tokenize(first_10_words).uniq
 slug = tokens.join ' '
 slug = slug.to_slug.normalize.to_s
 logger.debug "slug without timestamp: #{slug}"
